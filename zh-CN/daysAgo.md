@@ -7,7 +7,7 @@ firstSeen: 2020-10-06T05:35:23+03:00
 lastUpdated: 2022-01-30T11:48:07+03:00
 ---
 
-### 以字符串表示形式计算从今天开始的 n 天前的日期。
+### 以字符串表示形式计算从今天开始的 `n` 天前的日期。
 > Calculates the date of `n` days ago from today as a string representation.
 
 - 使用 `Date` 构造函数获取当前日期。

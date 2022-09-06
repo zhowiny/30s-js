@@ -1,5 +1,5 @@
 ---
-title: Get nested value in object
+title: 获取对象中的嵌套值(Get nested value in object)
 tags: object,recursion
 expertise: intermediate
 cover: blog_images/brown-bird.jpg
@@ -7,11 +7,12 @@ firstSeen: 2018-07-08T23:06:24+03:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-Gets the target value in a nested JSON object, based on the given key.
+### 根据给定键获取嵌套 JSON 对象中的目标值。
+> Gets the target value in a nested JSON object, based on the given key.
 
-- Use the `in` operator to check if `target` exists in `obj`.
-- If found, return the value of `obj[target]`.
-- Otherwise use `Object.values()` and `Array.prototype.reduce()` to recursively call `dig` on each nested object until the first matching key/value pair is found.
+- 使用 `in` 运算符检查 `obj` 中是否存在 `target`。
+- 如果找到，返回 `obj[target]` 的值。
+- 否则使用 `Object.values()` 和 `Array.prototype.reduce()` 在每个嵌套对象上递归调用 `dig` 直到找到第一个匹配的键/值对。
 
 ```js
 const dig = (obj, target) =>

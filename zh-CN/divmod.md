@@ -1,5 +1,5 @@
 ---
-title: Quotient and module of division
+title: 除法的商和模(Quotient and module of division)
 tags: math
 expertise: beginner
 author: maciv
@@ -8,10 +8,11 @@ firstSeen: 2020-10-07T23:59:13+03:00
 lastUpdated: 2020-10-07T23:59:13+03:00
 ---
 
-Returns an array consisting of the quotient and remainder of the given numbers.
+### 返回由给定数字的商和余数组成的数组。
+> Returns an array consisting of the quotient and remainder of the given numbers.
 
-- Use `Math.floor()` to get the quotient of the division `x / y`.
-- Use the modulo operator (`%`) to get the remainder of the division `x / y`.
+- 使用 `Math.floor()` 得到除法 `x / y` 的商。
+- 使用模运算符 (`%`) 获得除法 `x / y` 的余数。
 
 ```js
 const divmod = (x, y) => [Math.floor(x / y), x % y];

@@ -1,5 +1,5 @@
 ---
-title: Defer function invocation
+title: 延迟函数调用(Defer function invocation)
 tags: function
 expertise: intermediate
 cover: blog_images/cave-view.jpg
@@ -7,10 +7,11 @@ firstSeen: 2018-01-01T23:40:31+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-Defers invoking a function until the current call stack has cleared.
+### 延迟调用函数，直到当前调用堆栈被清除。
+> Defers invoking a function until the current call stack has cleared.
 
-- Use `setTimeout()` with a timeout of `1` ms to add a new event to the event queue and allow the rendering engine to complete its work.
-- Use the spread (`...`) operator to supply the function with an arbitrary number of arguments.
+- 使用 `setTimeout()` 和 `1` 毫秒的超时将新事件添加到事件队列并允许渲染引擎完成其工作。
+- 使用展开 (`...`) 运算符为函数提供任意数量的参数。
 
 ```js
 const defer = (fn, ...args) => setTimeout(fn, 1, ...args);
@@ -23,7 +24,7 @@ defer(console.log, 'a'), console.log('b'); // logs 'b' then 'a'
 // Example B:
 document.querySelector('#someElement').innerHTML = 'Hello';
 longRunningFunction();
-// Browser will not update the HTML until this has finished
+// 浏览器在完成之前不会更新 HTML
 defer(longRunningFunction);
-// Browser will update the HTML then run the function
+// 浏览器将更新 HTML 然后运行该函数
 ```

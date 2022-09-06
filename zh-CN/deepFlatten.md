@@ -8,7 +8,6 @@ lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
 ### 深度扁平化数组。
-
 > Deep flattens an array.
 
 - 使用递归。

@@ -2,7 +2,6 @@
 title: 收敛分支函数(Converge branching functions)
 tags: function
 expertise: intermediate
-excerpt: Converges a list of branching functions into a single function and returns the result.
 excerpt: 将分支函数列表聚合为单个函数并返回结果。
 cover: blog_images/cherry-trees.jpg
 firstSeen: 2018-02-07T12:23:04+02:00

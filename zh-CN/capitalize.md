@@ -1,5 +1,5 @@
 ---
-title: 大写字符串(Capitalize string)
+title: 首字母大写(Capitalize string)
 tags: string
 expertise: intermediate
 cover: blog_images/digital-nomad-3.jpg

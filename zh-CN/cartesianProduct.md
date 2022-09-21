@@ -8,6 +8,7 @@ firstSeen: 2020-12-28T20:23:47+02:00
 lastUpdated: 2020-12-29T12:31:43+02:00
 ---
 
+### 计算两个数组的笛卡尔积。
 > Calculates the cartesian product of two arrays.
 
 - 使用 `Array.prototype.reduce()`、`Array.prototype.map()` 和扩展运算符 (`...`) 从两个数组中生成所有可能的元素对。

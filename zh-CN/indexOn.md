@@ -7,7 +7,7 @@ cover: blog_images/lavender-shelf.jpg
 firstSeen: 2021-06-27T05:00:00-04:00
 ---
 
-### 从数组中创建一个对象，使用指定的键并将其从每个值中排除。
+# 从数组中创建一个对象，使用指定的键并将其从每个值中排除。
 > Creates an object from an array, using the specified key and excluding it from each value.
 
 - 使用 `Array.prototype.reduce()` 从 `arr` 创建一个对象。

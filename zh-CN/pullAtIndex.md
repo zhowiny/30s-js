@@ -7,7 +7,7 @@ firstSeen: 2017-12-19T00:42:47+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 对原始数组进行变异以过滤掉指定索引处的值。返回移除的元素。
+# 对原始数组进行变异以过滤掉指定索引处的值。返回移除的元素。
 > Mutates the original array to filter out the values at the specified indexes.
 > Returns the removed elements.
 

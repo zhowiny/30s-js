@@ -7,7 +7,7 @@ firstSeen: 2018-01-05T14:33:48+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 将事件侦听器添加到能够使用事件委托的元素。
+# 将事件侦听器添加到能够使用事件委托的元素。
 > Adds an event listener to an element with the ability to use event delegation.
 
 - 使用 `EventTarget.addEventListener()` 将事件监听器添加到元素。

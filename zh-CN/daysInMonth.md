@@ -6,7 +6,7 @@ cover: blog_images/laptop-plants-2.jpg
 firstSeen: 2021-06-13T05:00:00-04:00
 ---
 
-### 获取指定 `年` 的给定 `月` 中的天数。
+# 获取指定 `年` 的给定 `月` 中的天数。
 > Gets the number of days in the given `month` of the specified `year`.
 
 - 使用 `Date` 构造函数从给定的 `year` 和 `month` 创建一个日期。

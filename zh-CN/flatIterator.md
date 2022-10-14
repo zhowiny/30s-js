@@ -7,7 +7,7 @@ cover: blog_images/balloons.jpg
 firstSeen: 2022-03-09T05:00:00-04:00
 ---
 
-### 创建一个生成器，该生成器对可迭代的、扁平化的嵌套可迭代对象进行迭代。
+# 创建一个生成器，该生成器对可迭代的、扁平化的嵌套可迭代对象进行迭代。
 > Creates a generator that iterates over an iterable, flattening nested iterables.
 
 - 使用递归。

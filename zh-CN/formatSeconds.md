@@ -7,7 +7,7 @@ firstSeen: 2021-05-09T12:44:55+03:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 返回给定秒数的 ISO 格式。
+# 返回给定秒数的 ISO 格式。
 > Returns the ISO format of the given number of seconds.
 
 - 将`s`除以适当的值以获得`hour`、`minute`和`second`的适当值。

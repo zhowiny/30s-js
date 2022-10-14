@@ -7,7 +7,7 @@ cover: blog_images/terminal.jpg
 firstSeen: 2022-04-26T05:00:00-04:00
 ---
 
-### 获取传递给 Node.js 脚本的命令行参数。
+# 获取传递给 Node.js 脚本的命令行参数。
 > Gets the command-line arguments passed to a Node.js script.
 
 - 使用 `process.argv` 获取所有命令行参数的数组。

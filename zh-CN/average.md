@@ -7,7 +7,7 @@ firstSeen: 2017-12-29T13:29:49+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 计算两个或多个数字的平均值。
+# 计算两个或多个数字的平均值。
 > Calculates the average of two or more numbers.
 
 - 使用 `Array.prototype.reduce()` 将每个值添加到累加器，初始值为 `0`。

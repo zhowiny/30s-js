@@ -7,7 +7,7 @@ firstSeen: 2018-01-17T14:09:01+02:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 使用 [SHA-256](https://en.wikipedia.org/wiki/SHA-2) 算法为值创建哈希。返回一个 `Promise`。
+# 使用 [SHA-256](https://en.wikipedia.org/wiki/SHA-2) 算法为值创建哈希。返回一个 `Promise`。
 > Creates a hash for a value using the [SHA-256](https://en.wikipedia.org/wiki/SHA-2) algorithm.
 > Returns a promise.
 

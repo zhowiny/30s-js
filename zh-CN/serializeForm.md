@@ -7,7 +7,7 @@ firstSeen: 2019-03-13T14:29:45+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 将一组表单元素编码为查询字符串。
+# 将一组表单元素编码为查询字符串。
 > Encodes a set of form elements as a query string.
 
 - 使用 `FormData` 构造函数将 HTML `form` 转换为 `FormData`。

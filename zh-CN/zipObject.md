@@ -7,7 +7,7 @@ firstSeen: 2017-12-21T00:55:18+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 将属性与值关联，给定有效的属性标识符数组和值数组。
+# 将属性与值关联，给定有效的属性标识符数组和值数组。
 > Associates properties to values, given array of valid property identifiers and an array of values.
 
 - 使用 `Array.prototype.reduce()` 从两个数组构建一个对象。

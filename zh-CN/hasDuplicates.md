@@ -7,7 +7,7 @@ firstSeen: 2020-10-22T20:23:09+03:00
 lastUpdated: 2020-10-22T20:23:09+03:00
 ---
 
-### 检查一维数组中是否存在重复值。
+# 检查一维数组中是否存在重复值。
 > Checks if there are duplicate values in a flat array.
 
 - 使用 `Set` 获取数组中的唯一值。

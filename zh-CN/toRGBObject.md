@@ -8,7 +8,7 @@ firstSeen: 2020-10-14T21:58:14+03:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 将 `rgb()` 颜色字符串转换为具有每种颜色值的对象。
+# 将 `rgb()` 颜色字符串转换为具有每种颜色值的对象。
 > Converts an `rgb()` color string to an object with the values of each color.
 
 - 使用 `String.prototype.match()` 获取一个包含 3 个字符串的数组，其中包含数值。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-16T15:53:03+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 将所有给定的 URL 段连接在一起，然后规范化生成的 URL。
+# 将所有给定的 URL 段连接在一起，然后规范化生成的 URL。
 > Joins all given URL segments together, then normalizes the resulting URL.
 
 - 使用 `Array.prototype.join()` 来组合 URL 段。

@@ -7,7 +7,7 @@ firstSeen: 2020-10-19T19:47:26+03:00
 lastUpdated: 2021-01-08T00:23:44+02:00
 ---
 
-### 检查数组中的所有元素是否唯一。
+# 检查数组中的所有元素是否唯一。
 > Checks if all elements in an array are unique.
 
 - 从映射的值创建一个新的“Set”，以仅保留唯一的出现。

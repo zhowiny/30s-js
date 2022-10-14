@@ -7,7 +7,7 @@ firstSeen: 2018-01-01T19:30:14+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查数值数组是否已排序。
+# 检查数值数组是否已排序。
 > Checks if a numeric array is sorted.
 
 - 计算第一对相邻数组元素的排序 `direction`。

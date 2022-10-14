@@ -7,7 +7,7 @@ firstSeen: 2018-01-03T05:18:29+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 从提供的数组中返回 `n` 个最小元素。
+# 从提供的数组中返回 `n` 个最小元素。
 > Returns the `n` minimum elements from the provided array.
 
 - 使用 `Array.prototype.sort()` 结合扩展运算符 (`...`) 创建数组的浅克隆并按升序对其进行排序。

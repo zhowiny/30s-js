@@ -7,7 +7,7 @@ firstSeen: 2018-01-02T00:40:46+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 确保一个函数只被调用一次。
+# 确保一个函数只被调用一次。
 > Ensures a function is called only once.
 
 - 利用闭包，使用标志，`call`，并在第一次调用函数时将其设置为 `true`，以防止再次调用它。

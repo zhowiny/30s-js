@@ -7,7 +7,7 @@ firstSeen: 2018-08-25T18:54:16+03:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 深度冻结对象
+# 深度冻结对象
 > Deep freezes an object.
 
 - 使用 `Object.keys()` 获取传递对象的所有属性，`Array.prototype.forEach()` 对它们进行迭代。

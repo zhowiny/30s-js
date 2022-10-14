@@ -7,7 +7,7 @@ cover: blog_images/godray-computer-mug.jpg
 firstSeen: 2021-08-15T05:00:00-04:00
 ---
 
-### 返回日期对应的一年中的第几周(从零开始)。
+# 返回日期对应的一年中的第几周(从零开始)。
 > Returns the zero-indexed week of the year that a date corresponds to.
 
 - 使用 `Date` 构造函数和 `Date.prototype.getFullYear()` 获取一年中的第一天作为 `Date` 对象。

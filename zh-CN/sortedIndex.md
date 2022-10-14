@@ -7,7 +7,7 @@ firstSeen: 2017-12-31T16:39:06+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 查找应将值插入数组以保持其排序顺序的最低索引。
+# 查找应将值插入数组以保持其排序顺序的最低索引。
 > Finds the lowest index at which a value should be inserted into an array in order to maintain its sorting order.
 
 - 松散地检查数组是否按降序排序。

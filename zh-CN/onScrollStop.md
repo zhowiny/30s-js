@@ -8,7 +8,7 @@ firstSeen: 2021-01-07T00:31:14+02:00
 lastUpdated: 2021-01-07T00:31:14+02:00
 ---
 
-### 每当用户停止滚动时运行回调。
+# 每当用户停止滚动时运行回调。
 > Runs the callback whenever the user has stopped scrolling.
 
 - 使用 `EventTarget.addEventListener()` 来监听 `'scroll'` 事件。

@@ -8,7 +8,7 @@ firstSeen: 2020-10-11T11:53:19+03:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 检查第一个可迭代对象是否是第二个可迭代对象的超集，不包括重复值。
+# 检查第一个可迭代对象是否是第二个可迭代对象的超集，不包括重复值。
 > Checks if the first iterable is a superset of the second one, excluding duplicate values.
 
 - 使用 `Set` 构造函数从每个可迭代对象中创建一个新的 `Set` 对象。

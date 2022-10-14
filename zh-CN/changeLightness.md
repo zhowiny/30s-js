@@ -7,7 +7,7 @@ firstSeen: 2020-10-30T17:38:31+02:00
 lastUpdated: 2020-10-31T16:37:54+02:00
 ---
 
-### 更改 `hsl()` 颜色字符串的亮度值。
+# 更改 `hsl()` 颜色字符串的亮度值。
 > Changes the lightness value of an `hsl()` color string.
 
 - 使用 `String.prototype.match()` 获得一个包含 3 个字符串的数组，其中包含数值。

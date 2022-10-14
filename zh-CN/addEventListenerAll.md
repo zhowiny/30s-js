@@ -8,7 +8,7 @@ firstSeen: 2021-04-22T08:53:29+03:00
 lastUpdated: 2021-04-22T08:53:29+03:00
 ---
 
-### 将事件侦听器附加到所有提供的目标。
+# 将事件侦听器附加到所有提供的目标。
 > Attaches an event listener to all the provided targets.
 
 - 使用 `Array.prototype.forEach()` 和 `EventTarget.addEventListener()`, 将给定事件`type`的提供`listener`附加到所有`targets`。

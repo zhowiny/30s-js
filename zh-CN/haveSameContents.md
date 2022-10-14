@@ -8,7 +8,7 @@ firstSeen: 2020-01-05T21:40:39+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 无论顺序如何，检查两个数组是否包含相同的元素。
+# 无论顺序如何，检查两个数组是否包含相同的元素。
 > Checks if two arrays contain the same elements regardless of order.
 
 - 在从两个数组的值创建的 `Set` 上使用 `for...of` 循环。

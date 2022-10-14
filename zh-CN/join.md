@@ -7,7 +7,7 @@ firstSeen: 2018-01-01T12:18:40+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 将数组的所有元素连接成一个字符串并返回此字符串。使用分隔符和结束分隔符。
+# 将数组的所有元素连接成一个字符串并返回此字符串。使用分隔符和结束分隔符。
 > Joins all elements of an array into a string and returns this string.
 > Uses a separator and an end separator.
 

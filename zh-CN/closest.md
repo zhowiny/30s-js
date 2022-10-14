@@ -7,7 +7,7 @@ cover: blog_images/sparkles.jpg
 firstSeen: 2022-03-30T05:00:00-04:00
 ---
 
-### 从数组中查找最接近的数字。
+# 从数组中查找最接近的数字。
 > Finds the closest number from an array.
 
 - 使用 `Array.prototype.reduce()` 扫描数组的所有元素。

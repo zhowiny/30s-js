@@ -7,7 +7,7 @@ firstSeen: 2019-10-11T23:16:05+03:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 从给定对象的键值对生成查询字符串。
+# 从给定对象的键值对生成查询字符串。
 > Generates a query string from the key-value pairs of the given object.
 
 - 在 `Object.entries()` 上使用 `Array.prototype.reduce()` 从 `queryParameters` 创建查询字符串。

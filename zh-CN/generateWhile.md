@@ -7,7 +7,7 @@ cover: blog_images/lake-loop.jpg
 firstSeen: 2022-01-21T05:00:00-04:00
 ---
 
-### 创建一个生成器，只要满足给定条件，它就会不断生成新值。
+# 创建一个生成器，只要满足给定条件，它就会不断生成新值。
 > Creates a generator, that keeps producing new values as long as the given condition is met.
 
 - 使用 `seed` 值初始化当前的 `val`。

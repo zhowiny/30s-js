@@ -7,7 +7,7 @@ firstSeen: 2017-12-31T13:56:28+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 从数组中获取唯一索引的 `n` 个随机元素，直到数组的大小。
+# 从数组中获取唯一索引的 `n` 个随机元素，直到数组的大小。
 > Gets `n` random elements at unique keys from an array up to the size of the array.
 
 - 使用 [Fisher-Yates 洗牌算法](./shuffle) 对数组进行洗牌。

@@ -8,7 +8,7 @@ firstSeen: 2020-10-10T21:09:04+03:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 创建一个返回`Promise`的去抖动函数，但延迟调用提供的函数，直到自上次调用它以来至少经过 `ms` 毫秒。
+# 创建一个返回`Promise`的去抖动函数，但延迟调用提供的函数，直到自上次调用它以来至少经过 `ms` 毫秒。
 在此期间返回的所有`Promise`都将返回相同的数据。
 
 > Creates a debounced function that returns a promise, but delays invoking the provided function until at least `ms` milliseconds have elapsed since the last time it was invoked.

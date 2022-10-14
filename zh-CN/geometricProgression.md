@@ -8,7 +8,7 @@ firstSeen: 2018-01-03T09:36:23+02:00
 lastUpdated: 2020-12-28T13:49:24+02:00
 ---
 
-### 初始化一个包含指定范围内的数字的数组，其中包含 `start` 和 `end` 并且两个项之间的比率是 `step`。如果 `step` 等于 `1`，则返回错误。
+# 初始化一个包含指定范围内的数字的数组，其中包含 `start` 和 `end` 并且两个项之间的比率是 `step`。如果 `step` 等于 `1`，则返回错误。
 > Initializes an array containing the numbers in the specified range where `start` and `end` are inclusive and the ratio between two terms is `step`.
 > Returns an error if `step` equals `1`.
 

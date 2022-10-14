@@ -6,7 +6,7 @@ cover: blog_images/camera-zoom.jpg
 firstSeen: 2021-09-08T19:21:13+00:00
 ---
 
-### 将字符串转换为帕斯卡大小写。
+# 将字符串转换为帕斯卡大小写。
 > Converts a string to pascal case.
 
 - 使用 `String.prototype.match()` 使用适当的正则表达式将字符串分解为单词。

@@ -8,7 +8,7 @@ firstSeen: 2020-10-19T22:14:49+03:00
 lastUpdated: 2020-10-19T22:14:49+03:00
 ---
 
-### 根据提供的映射函数检查数组中的所有元素是否相等。
+# 根据提供的映射函数检查数组中的所有元素是否相等。
 > Checks if all elements in an array are equal, based on the provided mapping function.
 
 - 将 `fn` 应用于 `arr` 的第一个元素。

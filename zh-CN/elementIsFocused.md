@@ -8,7 +8,7 @@ firstSeen: 2020-08-07T15:21:27+03:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 检查给定元素是否聚焦。
+# 检查给定元素是否聚焦。
 > Checks if the given element is focused.
 
 - 使用 `Document.activeElement` 来确定给定元素是否被聚焦。

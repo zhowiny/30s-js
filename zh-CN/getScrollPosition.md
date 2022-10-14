@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 返回当前页面的滚动位置。
+# 返回当前页面的滚动位置。
 > Returns the scroll position of the current page.
 
 - 如果已定义，则使用 `Window.pageXOffset` 和 `Window.pageYOffset`，否则使用 `Element.scrollLeft` 和 `Element.scrollTop`。

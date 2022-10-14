@@ -7,7 +7,7 @@ firstSeen: 2018-01-13T17:14:48+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 将整数转换为后缀字符串，根据其值添加 `am` 或 `pm`。
+# 将整数转换为后缀字符串，根据其值添加 `am` 或 `pm`。
 > Converts an integer to a suffixed string, adding `am` or `pm` based on its value.
 
 - 使用模运算符 (`%`) 和条件检查将整数转换为带有 `meridiem` 后缀的字符串化 12 小时格式。

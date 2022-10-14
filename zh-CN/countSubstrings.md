@@ -8,7 +8,7 @@ firstSeen: 2020-12-31T13:58:51+02:00
 lastUpdated: 2021-01-08T00:23:44+02:00
 ---
 
-### 计算给定字符串中子字符串的出现次数。
+# 计算给定字符串中子字符串的出现次数。
 > Counts the occurrences of a substring in a given string.
 
 - 使用 `Array.prototype.indexOf()` 在 `str` 中查找 `searchValue`。

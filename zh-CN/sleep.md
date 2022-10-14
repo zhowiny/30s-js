@@ -6,7 +6,7 @@ cover: blog_images/sleepy-cat.jpg
 firstSeen: 2017-12-13T22:40:56+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
-### 延迟执行异步函数。
+# 延迟执行异步函数。
 > Delays the execution of an asynchronous function.
 
 - 延迟执行 `async` 函数的一部分，使其在一段时间内处于睡眠状态，返回 `Promise`。

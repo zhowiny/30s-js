@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 初始化一个包含指定范围内的数字的数组，其中 `start` 和 `end` 包含它们的共同点 `step`。
+# 初始化一个包含指定范围内的数字的数组，其中 `start` 和 `end` 包含它们的共同点 `step`。
 > Initializes an array containing the numbers in the specified range where `start` and `end` are inclusive with their common difference `step`.
 
 - 使用 `Array.from()` 创建所需长度的数组。

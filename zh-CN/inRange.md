@@ -7,7 +7,7 @@ firstSeen: 2017-12-20T18:33:58+02:00
 lastUpdated: 2020-11-01T20:50:57+02:00
 ---
 
-### 检查给定数字是否在给定范围内。
+# 检查给定数字是否在给定范围内。
 > Checks if the given number falls within the given range.
 
 - 使用算术比较检查给定数字是否在指定范围内。

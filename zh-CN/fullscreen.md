@@ -7,7 +7,7 @@ firstSeen: 2020-10-04T16:48:00+03:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 在全屏模式下打开或关闭元素。
+# 在全屏模式下打开或关闭元素。
 > Opens or closes an element in fullscreen mode.
 
 - 使用 `Document.querySelector()` 和 `Element.requestFullscreen()` 全屏打开给定元素。

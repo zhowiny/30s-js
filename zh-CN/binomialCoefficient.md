@@ -7,7 +7,7 @@ firstSeen: 2018-02-14T12:34:02+02:00
 lastUpdated: 2020-12-28T13:49:24+02:00
 ---
 
-### 计算从 `n` 个项目中选择 `k` 个项目而不重复且无顺序的方式数。
+# 计算从 `n` 个项目中选择 `k` 个项目而不重复且无顺序的方式数。
 > Calculates the number of ways to choose `k` items from `n` items without repetition and without order.
 
 - 使用 `Number.isNaN()` 检查两个值中的任何一个是否为 `NaN`。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-13T12:27:43+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 将一个不是promise的函数转换成 promise 。
+# 将一个不是promise的函数转换成 promise 。
 > Converts an asynchronous function to return a promise.
 
 - 使用柯里化返回一个函数，该函数返回一个调用原始函数的 `Promise`。

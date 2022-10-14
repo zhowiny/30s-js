@@ -7,7 +7,7 @@ firstSeen: 2018-01-11T12:25:54+02:00
 lastUpdated: 2020-10-21T21:17:45+03:00
 ---
 
-### 在使用提供的函数将每个元素映射到一个值之后，计算数组的平均值。
+# 在使用提供的函数将每个元素映射到一个值之后，计算数组的平均值。
 > Calculates the average of an array, after mapping each element to a value using the provided function.
 
 - 使用 `Array.prototype.map()` 将每个元素映射到 `fn` 返回的值。

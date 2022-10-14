@@ -8,7 +8,7 @@ firstSeen: 2020-05-04T12:33:13+03:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 规范化字符串中的行尾。
+# 规范化字符串中的行尾。
 > Normalizes line endings in a string.
 
 - 使用 `String.prototype.replace()` 和正则表达式来匹配和替换行尾为 `normalized` 版本。

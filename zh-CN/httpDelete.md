@@ -7,7 +7,7 @@ firstSeen: 2020-04-16T11:21:33+03:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 向传递的 URL 发出 `DELETE` 请求。
+# 向传递的 URL 发出 `DELETE` 请求。
 > Makes a `DELETE` request to the passed URL.
 
 - 使用 `XMLHttpRequest` Web API 向给定的 `url` 发出 `DELETE` 请求。

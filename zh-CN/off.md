@@ -7,7 +7,7 @@ firstSeen: 2018-01-05T14:33:48+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 从元素中移除事件监听器。
+# 从元素中移除事件监听器。
 > Removes an event listener from an element.
 
 - 使用 `EventTarget.removeEventListener()` 从元素中移除事件监听器。

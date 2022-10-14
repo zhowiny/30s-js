@@ -7,7 +7,7 @@ firstSeen: 2018-08-03T00:03:08+03:00
 lastUpdated: 2020-10-18T20:24:28+03:00
 ---
 
-### 检查数组中的所有元素是否相等。
+# 检查数组中的所有元素是否相等。
 > Checks if all elements in an array are equal.
 
 - 使用 `Array.prototype.every()` 检查数组的所有元素是否与第一个元素相同。

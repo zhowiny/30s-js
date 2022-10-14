@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-21T21:17:45+03:00
 ---
 
-### 将字符串截断到指定长度。
+# 将字符串截断到指定长度。
 > Truncates a string up to a specified length.
 
 - 确定 `String.prototype.length` 是否大于 `num`。

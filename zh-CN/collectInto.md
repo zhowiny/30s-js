@@ -7,7 +7,7 @@ firstSeen: 2017-12-22T05:08:36+02:00
 lastUpdated: 2021-06-13T13:50:25+03:00
 ---
 
-### 将接受数组的函数更改为可变参数函数。
+# 将接受数组的函数更改为可变参数函数。
 > Changes a function that accepts an array into a variadic function.
 
 - 给定一个函数，返回一个闭包，它将所有输入收集到一个接受数组的函数中。

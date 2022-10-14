@@ -8,7 +8,7 @@ firstSeen: 2020-10-19T22:15:05+03:00
 lastUpdated: 2021-01-08T00:23:44+02:00
 ---
 
-### 根据提供的映射函数检查数组中的所有元素是否唯一。
+# 根据提供的映射函数检查数组中的所有元素是否唯一。
 > Checks if all elements in an array are unique, based on the provided mapping function.
 
 - 使用 `Array.prototype.map()` 将 `fn` 应用于 `arr` 中的所有元素。

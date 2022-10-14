@@ -7,7 +7,7 @@ firstSeen: 2018-02-06T18:33:49+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 对数组进行稳定排序，当它们的值相同时保留目标的初始索引。
+# 对数组进行稳定排序，当它们的值相同时保留目标的初始索引。
 > Performs stable sorting of an array, preserving the initial indexes of items when their values are the same.
 
 - 使用 `Array.prototype.map()` 将输入数组的每个元素与其对应的索引配对。

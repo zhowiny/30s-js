@@ -7,7 +7,7 @@ firstSeen: 2018-01-26T12:23:18+02:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 删除数组中的元素，直到传递的函数返回 `true`。
+# 删除数组中的元素，直到传递的函数返回 `true`。
 返回数组中剩余的元素。
 > Removes elements in an array until the passed function returns `true`.
 > Returns the remaining elements in the array.

@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T14:14:49+02:00
 lastUpdated: 2020-10-18T23:04:45+03:00
 ---
 
-### 创建一个使用给定上下文调用 `fn` 的函数，可选择将任何其他提供的参数添加到参数中。
+# 创建一个使用给定上下文调用 `fn` 的函数，可选择将任何其他提供的参数添加到参数中。
 > Creates a function that invokes `fn` with a given context, optionally prepending any additional supplied parameters to the arguments.
 
 - 返回一个使用 `Function.prototype.apply()` 将给定 `context` 应用到 `fn` 的`function`。

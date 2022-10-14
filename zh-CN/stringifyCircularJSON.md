@@ -7,7 +7,7 @@ firstSeen: 2020-10-06T12:32:28+03:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 将包含循环引用的 JSON 对象序列化为 JSON 格式。
+# 将包含循环引用的 JSON 对象序列化为 JSON 格式。
 > Serializes a JSON object containing circular references into a JSON format.
 
 - 创建一个 `WeakSet` 来存储和检查看到的值，使用 `WeakSet.prototype.add()` 和 `WeakSet.prototype.has()`。

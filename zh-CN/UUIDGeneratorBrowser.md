@@ -7,7 +7,7 @@ firstSeen: 2017-12-29T09:47:10+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 在浏览器中生成 UUID。
+# 在浏览器中生成 UUID。
 > Generates a UUID in a browser.
 
 - 使用 `Crypto.getRandomValues()` 生成符合 [RFC4122](https://www.ietf.org/rfc/rfc4122.txt) 版本 4 的 UUID。

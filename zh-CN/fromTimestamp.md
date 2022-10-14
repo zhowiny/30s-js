@@ -8,7 +8,7 @@ firstSeen: 2020-10-15T21:57:17+03:00
 lastUpdated: 2020-10-15T21:57:17+03:00
 ---
 
-### 从 Unix 时间戳创建一个 `Date` 对象。
+# 从 Unix 时间戳创建一个 `Date` 对象。
 > Creates a `Date` object from a Unix timestamp.
 
 - 通过乘以“1000”将时间戳转换为毫秒。

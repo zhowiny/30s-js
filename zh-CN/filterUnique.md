@@ -8,7 +8,7 @@ firstSeen: 2020-11-02T19:41:00+02:00
 lastUpdated: 2020-11-02T19:41:00+02:00
 ---
 
-### 创建一个过滤掉唯一值的数组。
+# 创建一个过滤掉唯一值的数组。
 > Creates an array with the unique values filtered out.
 
 - 使用 `Set` 构造函数和扩展运算符 (`...`) 在 `arr` 中创建唯一值数组。

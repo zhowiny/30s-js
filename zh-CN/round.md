@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 将数字四舍五入到指定的位数。
+# 将数字四舍五入到指定的位数。
 > Rounds a number to a specified amount of digits.
 
 - 使用 `Math.round()` 和模板字符串将数字四舍五入到指定的位数。

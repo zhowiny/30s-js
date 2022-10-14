@@ -8,7 +8,7 @@ firstSeen: 2020-12-28T16:31:43+02:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 使用 [k-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) 算法相对于标记数据集对数据点进行分类。
+# 使用 [k-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) 算法相对于标记数据集对数据点进行分类。
 > Classifies a data point relative to a labelled data set, using the [k-nearest neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) algorithm.
 
 - 使用 `Array.prototype.map()` 将 `data` 映射到对象。 每个对象包含元素到 `point` 的欧几里德距离，使用 `Math.hypot()`、 `Object.keys()` 及其 `lebel` 计算。

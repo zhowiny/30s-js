@@ -7,7 +7,7 @@ firstSeen: 2020-10-09T20:36:54+03:00
 lastUpdated: 2020-10-09T22:01:42+03:00
 ---
 
-### 返回给定日期月份中最后一个日期的字符串表示形式。
+# 返回给定日期月份中最后一个日期的字符串表示形式。
 > Returns the string representation of the last date in the given date's month.
 
 - 使用 `Date.prototype.getFullYear()`、`Date.prototype.getMonth()` 从给定日期获取当前年份和月份。

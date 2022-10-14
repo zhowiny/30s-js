@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 测量函数执行所需的时间。
+# 测量函数执行所需的时间。
 > Measures the time it takes for a function to execute.
 
 - 使用 `console.time()` 和 `console.timeEnd()` 测量开始时间和结束时间之间的差异，以确定回调执行的时间。

@@ -7,7 +7,7 @@ firstSeen: 2020-10-07T01:40:53+03:00
 lastUpdated: 2020-10-20T11:46:23+03:00
 ---
 
-### 获取当前页面使用的协议。
+# 获取当前页面使用的协议。
 > Gets the protocol being used on the current page.
 
 - 使用 `Window.location.protocol` 获取当前页面的协议（`http:` 或 `https:`）。

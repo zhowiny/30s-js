@@ -7,7 +7,7 @@ cover: blog_images/cows.jpg
 firstSeen: 2022-04-04T05:00:00-04:00
 ---
 
-### 如果它是一个函数，则调用该参数，否则返回它。
+# 如果它是一个函数，则调用该参数，否则返回它。
 > Calls the argument if it's a function, otherwise returns it.
 
 - 使用 `typeof` 运算符检查给定参数是否为函数。

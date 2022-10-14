@@ -8,7 +8,7 @@ firstSeen: 2020-05-22T09:07:35+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 改变原始数组以在指定索引之后插入给定值。
+# 改变原始数组以在指定索引之后插入给定值。
 > Mutates the original array to insert the given values after the specified index.
 
 - 使用具有适当索引和删除计数为 0 的 `Array.prototype.splice()`，分散要插入的给定值。

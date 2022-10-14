@@ -7,7 +7,7 @@ firstSeen: 2020-10-16T21:46:29+03:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 将 `hsl()` 颜色字符串转换为值数组。
+# 将 `hsl()` 颜色字符串转换为值数组。
 > Converts an `hsl()` color string to an array of values.
 
 - 使用 `String.prototype.match()` 获取一个包含 3 个字符串的数组，其中包含数值。

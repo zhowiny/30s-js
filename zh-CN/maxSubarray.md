@@ -7,7 +7,7 @@ expertise: intermediate
 firstSeen: 2022-09-07T05:00:00-04:00
 ---
 
-### 查找数字数组中总和最大的连续子数组。
+# 查找数字数组中总和最大的连续子数组。
 > Finds a contiguous subarray with the largest sum within an array of numbers.
 
 - 使用贪心方法来跟踪当前的 `sum` 和当前的最大值 `maxSum`。 将 `maxSum` 设置为 `-Infinity` 以确保如果所有值都是负数，则返回最大的负值。

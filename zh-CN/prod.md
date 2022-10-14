@@ -8,7 +8,7 @@ firstSeen: 2020-10-15T21:56:51+03:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 计算两个或多个数字/数组的乘积。
+# 计算两个或多个数字/数组的乘积。
 > Calculates the product of two or more numbers/arrays.
 
 - 使用 `Array.prototype.reduce()` 将每个值与累加器相乘，初始值为 `1`。

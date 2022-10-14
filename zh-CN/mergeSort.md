@@ -8,7 +8,7 @@ firstSeen: 2020-12-27T22:44:32+02:00
 lastUpdated: 2020-12-27T22:44:32+02:00
 ---
 
-### 使用归并排序算法对数字数组进行排序。
+# 使用归并排序算法对数字数组进行排序。
 > Sorts an array of numbers, using the merge sort algorithm.
 
 - 使用递归。

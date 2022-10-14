@@ -7,7 +7,7 @@ firstSeen: 2018-01-23T20:48:46+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 创建对象的深层克隆。克隆原始类型、数组和对象，不包括类实例。
+# 创建对象的深层克隆。克隆原始类型、数组和对象，不包括类实例。
 > Creates a deep clone of an object.
 > Clones primitives, arrays and objects, excluding class instances.
 

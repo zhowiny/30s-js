@@ -8,7 +8,7 @@ firstSeen: 2021-01-05T22:41:09+02:00
 lastUpdated: 2021-01-05T22:41:09+02:00
 ---
 
-### 查找从给定元素到文档顶部的距离。
+# 查找从给定元素到文档顶部的距离。
 > Finds the distance from a given element to the top of the document.
 
 - 使用 `while` 循环和 `HTMLElement.offsetParent` 向上移动给定元素的偏移父项。

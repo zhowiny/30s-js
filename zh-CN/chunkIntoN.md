@@ -7,7 +7,7 @@ cover: blog_images/dark-leaves-2.jpg
 firstSeen: 2020-05-04T13:00:46+03:00
 lastUpdated: 2020-11-03T21:46:13+02:00
 ---
-### 将一个数组分块成 `n` 个较小的数组。
+# 将一个数组分块成 `n` 个较小的数组。
 > Chunks an array into `n` smaller arrays.
 
 - 使用 `Math.ceil()` 和 `Array.prototype.length` 获取每个块的大小。

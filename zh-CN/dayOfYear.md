@@ -7,7 +7,7 @@ firstSeen: 2018-09-29T13:22:20+03:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 从 `Date` 对象获取一年中的某一天（数字范围为 1-366）。
+# 从 `Date` 对象获取一年中的某一天（数字范围为 1-366）。
 > Gets the day of the year (number in the range 1-366) from a `Date` object.
 
 - 使用 `Date` 构造函数和 `Date.prototype.getFullYear()` 获取一年中的第一天作为 `Date` 对象。

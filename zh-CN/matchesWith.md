@@ -7,7 +7,7 @@ firstSeen: 2018-01-23T20:17:32+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 根据提供的函数，比较两个对象以确定第一个对象是否包含与第二个对象等效的属性值。
+# 根据提供的函数，比较两个对象以确定第一个对象是否包含与第二个对象等效的属性值。
 > Compares two objects to determine if the first one contains equivalent property values to the second one, based on a provided function.
 
 - 使用 `Object.keys()` 获取第二个对象的所有键。

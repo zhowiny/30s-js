@@ -7,7 +7,7 @@ firstSeen: 2019-05-09T13:30:52+03:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 根据 `keys` 数组获取嵌套 JSON 对象中的目标值。
+# 根据 `keys` 数组获取嵌套 JSON 对象中的目标值。
 > Gets the target value in a nested JSON object, based on the `keys` array.
 
 - 将嵌套 JSON 对象中所需的键作为“数组”进行比较。

@@ -7,7 +7,7 @@ cover: blog_images/type-stamps.jpg
 firstSeen: 2022-01-21T05:00:00-04:00
 ---
 
-### 创建一个生成器，在满足给定条件之前不断生成新值。
+# 创建一个生成器，在满足给定条件之前不断生成新值。
 > Creates a generator, that keeps producing new values until the given condition is met.
 
 - 使用 `seed` 值初始化当前的 `val`。

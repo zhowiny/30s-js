@@ -7,7 +7,7 @@ firstSeen: 2020-10-11T11:44:44+03:00
 lastUpdated: 2020-10-20T11:21:07+03:00
 ---
 
-### 计算两个日期之间的工作日
+# 计算两个日期之间的工作日
 > Counts the weekdays between two dates.
 
 - 使用 `Array.from()` 构造一个 `length` 等于 `startDate` 和 `endDate` 之间的天数的数组。

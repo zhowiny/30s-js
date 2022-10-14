@@ -7,7 +7,7 @@ firstSeen: 2017-12-19T12:32:24+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 从数组中过滤出比较器函数不返回 `true` 的所有值。
+# 从数组中过滤出比较器函数不返回 `true` 的所有值。
 > Filters out all values from an array for which the comparator function does not return `true`.
 
 - 使用 `Array.prototype.filter()` 和 `Array.prototype.findIndex()` 找到合适的值。

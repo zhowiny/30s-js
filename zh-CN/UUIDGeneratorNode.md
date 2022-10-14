@@ -7,7 +7,7 @@ firstSeen: 2017-12-29T09:47:10+02:00
 lastUpdated: 2022-03-14T17:41:43+03:00
 ---
 
-### 在 Node.JS 中生成 UUID。
+# 在 Node.JS 中生成 UUID。
 > Generates a UUID in Node.JS.
 
 - 使用 `crypto.randomBytes()` 生成符合 [RFC4122](https://www.ietf.org/rfc/rfc4122.txt) 版本 4 的 UUID。

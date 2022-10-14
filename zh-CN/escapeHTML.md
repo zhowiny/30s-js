@@ -7,7 +7,7 @@ firstSeen: 2017-12-29T15:09:21+02:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 转义字符串以在 HTML 中使用。
+# 转义字符串以在 HTML 中使用。
 > Escapes a string for use in HTML.
 
 - 将 `String.prototype.replace()` 与匹配需要转义的字符的正则表达式一起使用。

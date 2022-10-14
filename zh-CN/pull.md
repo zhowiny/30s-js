@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T16:41:31+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 改变原始数组以过滤掉指定的值。
+# 改变原始数组以过滤掉指定的值。
 > Mutates the original array to filter out the values specified.
 
 - 使用 `Array.prototype.filter()` 和 `Array.prototype.includes()` 拉出不需要的值。

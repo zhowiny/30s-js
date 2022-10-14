@@ -7,7 +7,7 @@ firstSeen: 2020-10-07T09:25:05+03:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 将日期转换为扩展 ISO 格式 (ISO 8601)，包括时区偏移。
+# 将日期转换为扩展 ISO 格式 (ISO 8601)，包括时区偏移。
 > Converts a date to extended ISO format (ISO 8601), including timezone offset.
 
 - 使用 `Date.prototype.getTimezoneOffset()` 获取时区偏移并将其反转。 将其符号存储在 `diff` 中。

@@ -7,7 +7,7 @@ firstSeen: 2020-10-09T20:41:21+03:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 使用给定函数生成具有给定数量项目的数组。
+# 使用给定函数生成具有给定数量项目的数组。
 > Generates an array with the given amount of items, using the given function.
 
 - 使用 `Array.from()` 创建一个特定长度的空数组，使用每个新创建元素的索引调用 `fn`。

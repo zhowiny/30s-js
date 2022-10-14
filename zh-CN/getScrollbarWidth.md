@@ -7,7 +7,7 @@ author: chalarangelo
 firstSeen: 2022-07-16T05:00:00-04:00
 ---
 
-### 计算窗口垂直滚动条的宽度。
+# 计算窗口垂直滚动条的宽度。
 > Calculates the width of the window's vertical scrollbar.
 
 

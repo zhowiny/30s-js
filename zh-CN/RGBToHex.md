@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-11-03T22:11:18+02:00
 ---
 
-### 将 RGB 的值转换为十六进制颜色代码。
+# 将 RGB 的值转换为十六进制颜色代码。
 > Converts the values of RGB components to a hexadecimal color code.
 
 - 使用按位左移运算符 (`<<`) 和 `Number.prototype.toString()` 将给定的 RGB 参数转换为十六进制字符串。

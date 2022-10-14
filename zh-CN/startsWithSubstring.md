@@ -8,7 +8,7 @@ author: chalarangelo
 firstSeen: 2022-07-31T05:00:00-04:00
 ---
 
-### 检查给定字符串是否以另一个字符串的子字符串开头。
+# 检查给定字符串是否以另一个字符串的子字符串开头。
 > Checks if a given string starts with a substring of another string.
 
 - 使用 `for...in` 循环和 `String.prototype.slice()` 来获取给定 `word` 的每个子字符串，从开头开始。

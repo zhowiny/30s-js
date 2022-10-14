@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T14:32:20+02:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 在 `ms` 毫秒后调用提供的函数。
+# 在 `ms` 毫秒后调用提供的函数。
 > Invokes the provided function after `ms` milliseconds.
 
 - 使用 `setTimeout()` 来延迟 `fn` 的执行。

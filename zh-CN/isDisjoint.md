@@ -8,7 +8,7 @@ firstSeen: 2020-10-11T11:53:01+03:00
 lastUpdated: 2020-10-11T11:53:01+03:00
 ---
 
-### 检查两个可迭代对象是否不相交（没有共同值）。
+# 检查两个可迭代对象是否不相交（没有共同值）。
 > Checks if the two iterables are disjointed (have no common values).
 
 - 使用 `Set` 构造函数从每个可迭代对象中创建一个新的 `Set` 对象。

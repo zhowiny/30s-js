@@ -7,7 +7,7 @@ firstSeen: 2020-10-04T09:45:43+03:00
 lastUpdated: 2020-10-04T10:36:38+03:00
 ---
 
-### 将字符串转换为 URL 友好的 slug。
+# 将字符串转换为 URL 友好的 slug。
 > Converts a string to a URL-friendly slug.
 
 - 使用 `String.prototype.toLowerCase()` 和 `String.prototype.trim()` 来规范化字符串。

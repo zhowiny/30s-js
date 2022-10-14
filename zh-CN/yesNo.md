@@ -8,7 +8,7 @@ firstSeen: 2017-12-30T18:35:54+02:00
 lastUpdated: 2021-01-04T13:04:15+02:00
 ---
 
-### 如果字符串是 `'y'`/`'yes'` 则返回 `true` 或如果字符串是 `'n'`/`'no'` 则返回 `false`。
+# 如果字符串是 `'y'`/`'yes'` 则返回 `true` 或如果字符串是 `'n'`/`'no'` 则返回 `false`。
 > Returns `true` if the string is `'y'`/`'yes'` or `false` if the string is `'n'`/`'no'`.
 
 - 使用 `RegExp.prototype.test()` 检查字符串的计算结果是否为 `'y'`/`'yes'` 或 `'n'`/`'no'`。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T12:44:16+02:00
 lastUpdated: 2022-01-23T13:18:50+03:00
 ---
 
-### 创建一个元素数组，将由 [zip](./zip) 生成的数组中的元素取消分组并应用提供的函数。
+# 创建一个元素数组，将由 [zip](./zip) 生成的数组中的元素取消分组并应用提供的函数。
 > Creates an array of elements, ungrouping the elements in an array produced by [zip](./zip) and applying the provided function.
 
 - 使用 `Math.max()` 和扩展运算符 (`...`) 获取数组中最长的子数组，`Array.prototype.map()` 使每个元素成为一个数组。

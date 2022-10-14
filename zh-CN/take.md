@@ -7,7 +7,7 @@ firstSeen: 2017-12-14T11:35:14+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 创建一个数组，其中从开头取出了 `n` 个元素。
+# 创建一个数组，其中从开头取出了 `n` 个元素。
 > Creates an array with `n` elements removed from the beginning.
 
 - 使用 `Array.prototype.slice()` 创建一个数组切片，其中包含从开头获取的 `n` 个元素。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-12-28T13:49:24+02:00
 ---
 
-### 计算两个值之间的汉明距离。
+# 计算两个值之间的汉明距离。
 > Calculates the Hamming distance between two values.
 
 - 使用 XOR 运算符 (`^`) 查找两个数字之间的位差。

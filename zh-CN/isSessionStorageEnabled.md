@@ -8,7 +8,7 @@ firstSeen: 2020-12-31T13:13:47+02:00
 lastUpdated: 2020-12-31T13:13:47+02:00
 ---
 
-### 检查是否启用了 `sessionStorage`。
+# 检查是否启用了 `sessionStorage`。
 > Checks if `sessionStorage` is enabled.
 
 - 如果所有操作成功完成，则使用 `try...catch` 块返回 `true`，否则返回 `false`。

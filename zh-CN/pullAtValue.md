@@ -7,7 +7,7 @@ firstSeen: 2017-12-19T08:06:29+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 改变原始数组以过滤掉指定的值。返回移除的元素。
+# 改变原始数组以过滤掉指定的值。返回移除的元素。
 > Mutates the original array to filter out the values specified.
 > Returns the removed elements.
 

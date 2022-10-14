@@ -7,7 +7,7 @@ cover: blog_images/interior-2.jpg
 firstSeen: 2021-07-11T05:00:00-04:00
 ---
 
-### 检查数组是否有多个与给定函数匹配的值。
+# 检查数组是否有多个与给定函数匹配的值。
 > Checks if an array has more than one value matching the given function.
 
 - 结合使用 `Array.prototype.filter()` 和 `fn` 来查找所有匹配的数组元素。

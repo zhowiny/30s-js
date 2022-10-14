@@ -8,7 +8,7 @@ firstSeen: 2020-12-28T22:48:09+02:00
 lastUpdated: 2020-12-28T22:48:09+02:00
 ---
 
-### 使用堆排序算法对数字数组进行排序。
+# 使用堆排序算法对数字数组进行排序。
 > Sorts an array of numbers, using the heapsort algorithm.
 
 - 使用递归。

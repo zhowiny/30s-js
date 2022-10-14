@@ -8,7 +8,7 @@ firstSeen: 2021-01-06T22:47:48+02:00
 lastUpdated: 2021-01-06T22:47:48+02:00
 ---
 
-### 计算给定数字的N次方根。
+# 计算给定数字的N次方根。
 > Calculates the nth root of a given number.
 
 - 使用 `Math.pow()` 计算 `x` 的 `1 / n` 次方，等于 `x`的 `n` 次方根。

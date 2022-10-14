@@ -7,7 +7,7 @@ firstSeen: 2019-07-19T12:12:09+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查给定日期是否为工作日。
+# 检查给定日期是否为工作日。
 > Checks if the given date is a weekday.
 
 - 使用 `Date.prototype.getDay()` 通过取模运算符 (`%`) 检查工作日。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-17T19:02:49+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 查找数组中的所有唯一值。
+# 查找数组中的所有唯一值。
 > Finds all unique values in an array.
 
 - 从给定的数组创建一个 `Set` 以丢弃重复的值。

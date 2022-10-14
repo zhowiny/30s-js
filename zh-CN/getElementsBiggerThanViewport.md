@@ -7,7 +7,7 @@ firstSeen: 2020-10-06T17:41:22+03:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 返回宽度大于视口宽度的 HTML 元素数组。
+# 返回宽度大于视口宽度的 HTML 元素数组。
 > Returns an array of HTML elements whose width is larger than that of the viewport's.
 
 - 使用 `HTMLElement.offsetWidth` 获取 `Document` 的宽度。

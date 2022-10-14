@@ -7,7 +7,7 @@ cover: blog_images/symmetry-cloudy-mountain.jpg
 firstSeen: 2022-04-23T05:00:00-04:00
 ---
 
-### 找到两个对象之间的共同键。
+# 找到两个对象之间的共同键。
 > Finds the common keys between two objects.
 
 - 使用`object.keys()`以获取第一个对象的键。

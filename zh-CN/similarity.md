@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T16:41:31+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 返回出现在两个数组中的元素数组。
+# 返回出现在两个数组中的元素数组。
 > Returns an array of elements that appear in both arrays.
 
 - 使用 `Array.prototype.includes()` 来确定不属于 `values` 的值。

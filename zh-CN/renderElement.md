@@ -8,7 +8,7 @@ firstSeen: 2020-05-03T11:55:42+03:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 将给定的 DOM 树渲染到指定的 DOM 元素中。
+# 将给定的 DOM 树渲染到指定的 DOM 元素中。
 > Renders the given DOM tree in the specified DOM element.
 
 - 将第一个参数分解为 `type` 和 `props`。 使用 `type` 来确定给定元素是否是文本元素。

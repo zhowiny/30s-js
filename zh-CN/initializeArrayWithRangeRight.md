@@ -7,7 +7,7 @@ firstSeen: 2018-01-16T17:09:39+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 初始化一个数组，其中包含指定范围内的数字（反向），其中 `start` 和 `end` 包含它们的共同点 `step`。
+# 初始化一个数组，其中包含指定范围内的数字（反向），其中 `start` 和 `end` 包含它们的共同点 `step`。
 > Initializes an array containing the numbers in the specified range (in reverse) where `start` and `end` are inclusive with their common difference `step`.
 
 - 使用 `Array.from()` 创建所需长度的数组，`(end - start + 1) / step`。

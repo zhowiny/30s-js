@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T16:41:31+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 将数组展平到指定的深度。
+# 将数组展平到指定的深度。
 > Flattens an array up to the specified depth.
 
 - 使用递归，对于每个深度级别将 `depth` 递减`1`。

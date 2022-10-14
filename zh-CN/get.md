@@ -7,7 +7,7 @@ firstSeen: 2018-01-18T17:40:42+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 从对象中检索由给定选择器指示的一组属性。
+# 从对象中检索由给定选择器指示的一组属性。
 > Retrieves a set of properties indicated by the given selectors from an object.
 
 - 对每个选择器使用 `Array.prototype.map()`，`String.prototype.replace()` 用点替换方括号。

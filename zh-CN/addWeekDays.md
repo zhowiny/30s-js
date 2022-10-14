@@ -6,7 +6,7 @@ cover: blog_images/digital-nomad-9.jpg
 firstSeen: 2020-10-11T16:51:39+03:00
 lastUpdated: 2021-01-08T00:23:44+02:00
 ---
-### 添加给定的工作日数后计算日期。
+# 添加给定的工作日数后计算日期。
 > Calculates the date after adding the given number of business days.
 
 - 使用 `Array.from()` 构造一个 `length` 等于要添加的工作日的 `count` 的数组。

@@ -8,7 +8,7 @@ author: chalarangelo
 firstSeen: 2022-08-01T05:00:00-04:00
 ---
 
-### 检查给定字符串是否以另一个字符串的子字符串结尾。
+# 检查给定字符串是否以另一个字符串的子字符串结尾。
 > Checks if a given string ends with a substring of another string.
 
 - 使用 `for...in` 循环和 `String.prototype.slice()` 来获取给定 `word` 的每个子字符串，从末尾开始。

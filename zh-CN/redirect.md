@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-20T11:46:23+03:00
 ---
 
-### 重定向到指定的 URL。
+# 重定向到指定的 URL。
 > Redirects to a specified URL.
 
 - 使用 `Window.location.href` 或 `Window.location.replace()` 重定向到 `url`。

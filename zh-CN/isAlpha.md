@@ -7,7 +7,7 @@ firstSeen: 2020-12-31T14:01:42+02:00
 lastUpdated: 2020-12-31T14:01:42+02:00
 ---
 
-### 检查字符串是否仅包含字母字符。
+# 检查字符串是否仅包含字母字符。
 > Checks if a string contains only alpha characters.
 
 - 使用 `RegExp.prototype.test()` 检查给定的字符串是否与字母正则表达式模式匹配。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-31T11:40:33+02:00
 lastUpdated: 2022-01-11T09:32:04+02:00
 ---
 
-### 将字符串复制到剪贴板。
+# 将字符串复制到剪贴板。
 仅作为用户操作的结果起作用（即在 `click` 事件侦听器中）。
 
 > Copies a string to the clipboard.

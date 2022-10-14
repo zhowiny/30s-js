@@ -7,7 +7,7 @@ firstSeen: 2020-10-05T18:03:26+03:00
 lastUpdated: 2020-10-06T18:47:16+03:00
 ---
 
-### 检测当前用户的首选语言。
+# 检测当前用户的首选语言。
 > Detects the preferred language of the current user.
 
 - 如果可用，使用 `Navigator.language` 或 `Navigator.languages` 的第一个值，否则返回 `defaultLang`。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-22T09:37:36+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 根据条件过滤对象数组，同时过滤掉未指定的键。
+# 根据条件过滤对象数组，同时过滤掉未指定的键。
 > Filters an array of objects based on a condition while also filtering out unspecified keys.
 
 - 使用 `Array.prototype.filter()` 根据谓词函数 `fn` 过滤数组，使其返回条件返回真值的对象。

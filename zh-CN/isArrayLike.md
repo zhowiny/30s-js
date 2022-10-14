@@ -7,7 +7,7 @@ firstSeen: 2017-12-31T14:53:01+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查提供的参数是否类似于数组（即可迭代）。
+# 检查提供的参数是否类似于数组（即可迭代）。
 > Checks if the provided argument is array-like (i.e. is iterable).
 
 - 检查提供的参数是否不是 `null` 并且它的 `Symbol.iterator` 属性是一个函数。

@@ -7,7 +7,7 @@ firstSeen: 2019-02-23T19:13:48+02:00
 lastUpdated: 2020-12-28T13:49:24+02:00
 ---
 
-### 计算两个向量之间的距离。
+# 计算两个向量之间的距离。
 > Calculates the distance between two vectors.
 
 - 使用 `Array.prototype.reduce()`、`Math.pow()` 和 `Math.sqrt()` 计算两个向量之间的欧几里得距离。

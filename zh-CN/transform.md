@@ -7,7 +7,7 @@ firstSeen: 2018-01-12T13:55:49+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 对累加器和对象中的每个键应用函数（从左到右）。
+# 对累加器和对象中的每个键应用函数（从左到右）。
 > Applies a function against an accumulator and each key in the object (from left to right).
 
 - 使用 `Object.keys()` 迭代对象中的每个键。

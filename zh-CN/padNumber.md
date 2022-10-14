@@ -8,7 +8,7 @@ firstSeen: 2020-10-03T23:31:08+03:00
 lastUpdated: 2020-10-03T23:31:08+03:00
 ---
 
-### 将给定数字填充到指定长度。
+# 将给定数字填充到指定长度。
 > Pads a given number to the specified length.
 
 - 使用 `String.prototype.padStart()` 将数字填充到指定长度，然后将其转换为字符串。

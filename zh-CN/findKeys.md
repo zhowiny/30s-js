@@ -7,7 +7,7 @@ firstSeen: 2020-10-25T09:59:13+02:00
 lastUpdated: 2020-11-15T14:43:44+02:00
 ---
 
-### 在提供的对象中查找与给定值匹配的所有键。
+# 在提供的对象中查找与给定值匹配的所有键。
 > Finds all the keys in the provided object that match the given value.
 
 - 使用 `Object.keys()` 获取对象的所有属性。

@@ -7,7 +7,7 @@ cover: blog_images/waves-from-above.jpg
 firstSeen: 2022-04-18T05:00:00-04:00
 ---
 
-### 从对象及其数组值属性之一生成对象数组。
+# 从对象及其数组值属性之一生成对象数组。
 > Produces an array of objects from an object and one of its array-valued properties.
 
 - 使用对象解构从对象中排除指定 `key` 的键值对。

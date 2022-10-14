@@ -7,7 +7,7 @@ cover: blog_images/cold-mountains.jpg
 firstSeen: 2021-08-08T05:00:00-04:00
 ---
 
-### 使用给定函数 `fn` 映射每个 `n` 个连续元素块。
+# 使用给定函数 `fn` 映射每个 `n` 个连续元素块。
 > Maps each block of `n` consecutive elements using the given function, `fn`.
 
 - 使用 `Array.prototype.slice()` 来获取 `arr`，并从左侧删除 `n` 个元素。

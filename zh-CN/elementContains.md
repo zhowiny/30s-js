@@ -7,7 +7,7 @@ firstSeen: 2018-06-19T20:57:58+03:00
 lastUpdated: 2020-11-03T22:11:18+02:00
 ---
 
-### 检查 `parent` 元素是否包含 `child` 元素。
+# 检查 `parent` 元素是否包含 `child` 元素。
 > Checks if the `parent` element contains the `child` element.
 
 - 检查 `parent` 是否与 `child` 不是同一个元素。

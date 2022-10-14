@@ -7,7 +7,7 @@ firstSeen: 2019-03-13T14:50:06+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 将一组表单元素编码为 `object`。
+# 将一组表单元素编码为 `object`。
 > Encodes a set of form elements as an `object`.
 
 - 使用 `FormData` 构造函数将 HTML `form` 转换为 `FormData` 和 `Array.from()` 转换为数组。

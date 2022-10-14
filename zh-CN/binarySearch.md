@@ -8,7 +8,7 @@ firstSeen: 2020-12-28T12:35:44+02:00
 lastUpdated: 2020-12-29T13:06:47+02:00
 ---
 
-### 使用二分搜索算法在已排序数组中查找给定元素的索引。
+# 使用二分搜索算法在已排序数组中查找给定元素的索引。
 > Finds the index of a given element in a sorted array using the binary search algorithm.
 
 - 声明左右搜索边界`l`和`r`，分别初始化为`0`和数组的`length`。

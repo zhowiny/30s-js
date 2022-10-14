@@ -8,7 +8,7 @@ firstSeen: 2020-11-29T12:16:43+02:00
 lastUpdated: 2020-11-29T12:16:43+02:00
 ---
 
-### 检查给定字符串在简化扩展 ISO 格式 (ISO 8601) 中是否有效。
+# 检查给定字符串在简化扩展 ISO 格式 (ISO 8601) 中是否有效。
 > Checks if the given string is valid in the simplified extended ISO format (ISO 8601).
 
 - 使用 `Date` 构造函数从给定的字符串创建一个 `Date` 对象。

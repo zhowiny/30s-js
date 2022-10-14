@@ -7,7 +7,7 @@ firstSeen: 2020-02-05T14:00:03+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查给定的 `year` 是否是闰年。
+# 检查给定的 `year` 是否是闰年。
 > Checks if the given `year` is a leap year.
 
 - 使用 `Date` 构造函数，将日期设置为给定 `year` 的 2 月 29 日。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T13:50:49+02:00
 lastUpdated: 2020-10-20T11:21:07+03:00
 ---
 
-### 迭代回调`n`次。
+# 迭代回调`n`次。
 > Iterates over a callback `n` times.
 
 - 使用 `Function.prototype.call()` 调用 `fn` `n` 次或直到它返回 `false`。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-09T01:38:50+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 从数组的最后一个元素开始，为每个数组元素执行一次提供的函数。
+# 从数组的最后一个元素开始，为每个数组元素执行一次提供的函数。
 > Executes a provided function once for each array element, starting from the array's last element.
 
 - 使用 `Array.prototype.slice()` 克隆给定的数组并使用 `Array.prototype.reverse()` 反转它。

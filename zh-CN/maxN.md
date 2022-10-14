@@ -7,7 +7,7 @@ firstSeen: 2018-01-03T05:18:29+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 从提供的数组中返回 `n` 个最大元素。
+# 从提供的数组中返回 `n` 个最大元素。
 > Returns the `n` maximum elements from the provided array.
 
 - 使用 `Array.prototype.sort()` 和扩展运算符 (`...`) 来创建数组的浅克隆并按降序对其进行排序。

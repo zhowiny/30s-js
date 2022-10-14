@@ -7,7 +7,7 @@ firstSeen: 2020-10-04T00:31:08+03:00
 lastUpdated: 2020-11-01T20:50:57+02:00
 ---
 
-### 从 `Date` 对象中获取工作日的名称。
+# 从 `Date` 对象中获取工作日的名称。
 > Gets the name of the weekday from a `Date` object.
 
 - 使用 `Date.prototype.toLocaleDateString()` 和 `{ weekday: 'long' }` 选项来检索工作日。

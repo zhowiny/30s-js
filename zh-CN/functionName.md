@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 打印函数的名称。
+# 打印函数的名称。
 > Logs the name of a function.
 
 - 使用 `console.debug()` 和传递函数的 `name` 属性将函数的名称记录到控制台的 `debug` 通道。

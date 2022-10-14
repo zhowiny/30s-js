@@ -7,7 +7,7 @@ firstSeen: 2018-01-11T20:33:14+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 使用提供的函数映射对象的值，生成具有相同键的新对象。
+# 使用提供的函数映射对象的值，生成具有相同键的新对象。
 > Maps the values of an object using the provided function, generating a new object with the same keys.
 
 - 使用 `Object.keys()` 来迭代对象的键。

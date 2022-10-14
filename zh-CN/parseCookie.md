@@ -7,7 +7,7 @@ firstSeen: 2018-01-13T14:19:21+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 解析 HTTP Cookie 标头字符串，返回所有 cookie 名称-值对的对象。
+# 解析 HTTP Cookie 标头字符串，返回所有 cookie 名称-值对的对象。
 > Parses an HTTP Cookie header string, returning an object of all cookie name-value pairs.
 
 - 使用 `String.prototype.split()` 将键值对彼此分开。

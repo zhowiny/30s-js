@@ -7,7 +7,7 @@ firstSeen: 2018-01-28T14:54:16+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 创建一个函数，该函数调用提供的函数并转换其参数。
+# 创建一个函数，该函数调用提供的函数并转换其参数。
 > Creates a function that invokes the provided function with its arguments transformed.
 
 - 使用 `Array.prototype.map()` 将 `transforms` 应用于 `args` 并结合扩展运算符 (`...`) 将转换后的参数传递给 `fn`。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-09-15T16:28:04+03:00
 ---
 
-### 链式异步函数
+# 链式异步函数
 > Chains asynchronous functions.
 
 - 循环遍历包含异步事件的函数数组，当每个异步事件完成时调用`next`。

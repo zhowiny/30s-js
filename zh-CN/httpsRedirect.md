@@ -7,7 +7,7 @@ firstSeen: 2017-12-21T08:33:56+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 如果页面当前在 HTTP 中，则将页面重定向到 HTTPS。
+# 如果页面当前在 HTTP 中，则将页面重定向到 HTTPS。
 > Redirects the page to HTTPS if it's currently in HTTP.
 
 - 使用 `location.protocol` 获取当前使用的协议。

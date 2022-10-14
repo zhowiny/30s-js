@@ -7,7 +7,7 @@ firstSeen: 2020-05-20T17:48:13+03:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 将 `fn` 应用于 `arr` 中的每个值，每次提供的函数返回一个新值时将其拆分。
+# 将 `fn` 应用于 `arr` 中的每个值，每次提供的函数返回一个新值时将其拆分。
 > Applies `fn` to each value in `arr`, splitting it each time the provided function returns a new value.
 
 - 将 `Array.prototype.reduce()` 与一个累加器对象一起使用，该对象将保存结果数组和从 `fn` 返回的最后一个值。

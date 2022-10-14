@@ -7,7 +7,7 @@ author: chalarangelo
 firstSeen: 2022-07-25T05:00:00-04:00
 ---
 
-### 生成给定字符串的所有正确子字符串。
+# 生成给定字符串的所有正确子字符串。
 > Generates all right substrings of a given string.
 
 - 如果字符串为空，使用 `String.prototype.length` 提前终止。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-29T15:09:10+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 对转义的 HTML 字符进行转义恢复。
+# 对转义的 HTML 字符进行转义恢复。
 > Unescapes escaped HTML characters.
 
 - 将 `String.prototype.replace()` 与匹配需要转义的字符的正则表达式一起使用。

@@ -7,7 +7,7 @@ firstSeen: 2018-05-31T02:14:04+03:00
 lastUpdated: 2022-01-30T12:45:30+03:00
 ---
 
-### 将给定的迭代转为为对象（key存储数据）。
+# 将给定的迭代转为为对象（key存储数据）。
 > Reduces a given iterable into a value hash (keyed data store).
 
 - 使用`Object.values()`获取可迭代对象（对象或数组）的值。

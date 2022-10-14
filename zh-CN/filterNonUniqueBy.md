@@ -7,7 +7,7 @@ firstSeen: 2018-07-18T20:40:53+03:00
 lastUpdated: 2020-11-02T19:40:27+02:00
 ---
 
-### 根据提供的比较器函数，创建一个过滤掉非唯一值的数组。
+# 根据提供的比较器函数，创建一个过滤掉非唯一值的数组。
 > Creates an array with the non-unique values filtered out, based on a provided comparator function.
 
 - 使用 `Array.prototype.filter()` 和 `Array.prototype.every()` 根据比较器函数 `fn` 创建一个仅包含唯一值的数组。

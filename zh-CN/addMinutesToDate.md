@@ -7,7 +7,7 @@ firstSeen: 2020-11-28T19:27:46+02:00
 lastUpdated: 2020-11-28T19:27:46+02:00
 ---
 
-### 计算从给定日期算起的“n”分钟的日期，返回其字符串表示形式。
+# 计算从给定日期算起的“n”分钟的日期，返回其字符串表示形式。
 > Calculates the date of `n` minutes from the given date, returning its string representation.
 
 - 从第一个参数使用 `Date` 构造函数, 创建 `Date` 对象.

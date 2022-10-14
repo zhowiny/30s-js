@@ -8,7 +8,7 @@ firstSeen: 2020-10-07T23:52:57+03:00
 lastUpdated: 2020-10-07T23:52:57+03:00
 ---
 
-### 返回第一个数字的绝对值，但返回第二个数字的符号。
+# 返回第一个数字的绝对值，但返回第二个数字的符号。
 > Returns the absolute value of the first number, but the sign of the second.
 
 - 使用 `Math.sign()` 检查两个数字是否具有相同的符号。

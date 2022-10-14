@@ -7,7 +7,7 @@ firstSeen: 2020-09-06T07:59:16+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查字符串是否仅包含字母数字字符。
+# 检查字符串是否仅包含字母数字字符。
 > Checks if a string contains only alphanumeric characters.
 
 - 使用 `RegExp.prototype.test()` 检查输入字符串是否与字母数字正则表达式模式匹配。

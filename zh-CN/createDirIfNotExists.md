@@ -7,7 +7,7 @@ firstSeen: 2018-12-12T19:25:16+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 如果目录不存在，则创建目录。
+# 如果目录不存在，则创建目录。
 > Creates a directory, if it does not exist.
 
 - 使用`fs.existsSync()`检查目录是否存在，`fs.mkdirSync()`创建它。

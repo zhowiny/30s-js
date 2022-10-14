@@ -8,7 +8,7 @@ firstSeen: 2018-04-11T16:39:49+03:00
 lastUpdated: 2021-01-04T13:04:15+02:00
 ---
 
-### 测量每秒执行函数的次数（赫兹）。
+# 测量每秒执行函数的次数（赫兹）。
 > Measures the number of times a function is executed per second (hz/hertz).
 
 - 使用 `performance.now()` 获取迭代循环前后的毫秒差，以计算执行函数 `iterations` 次所用的时间。

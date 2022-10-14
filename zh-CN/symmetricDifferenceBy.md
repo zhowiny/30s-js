@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T11:59:02+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 在将提供的函数应用于两个数组的每个数组元素后，返回两个数组之间的对称差。
+# 在将提供的函数应用于两个数组的每个数组元素后，返回两个数组之间的对称差。
 > Returns the symmetric difference between two arrays, after applying the provided function to each array element of both.
 
 - 从每个数组中创建一个 `Set` 以在对它们应用 `fn` 后获取每个数组的唯一值。

@@ -7,7 +7,7 @@ firstSeen: 2020-10-15T22:18:00+03:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 将给定的 CSS 代码注入当前文档
+# 将给定的 CSS 代码注入当前文档
 > Injects the given CSS code into the current document
 
 - 使用 `Document.createElement()` 创建一个新的 `style` 元素并将其类型设置为 `text/css`。

@@ -7,7 +7,7 @@ firstSeen: 2018-06-19T20:57:58+03:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 在给定元素上触发特定事件，可选择传递自定义数据。
+# 在给定元素上触发特定事件，可选择传递自定义数据。
 > Triggers a specific event on a given element, optionally passing custom data.
 
 - 使用 `CustomEvent` 构造函数从指定的 `eventType` 和详细信息创建事件。

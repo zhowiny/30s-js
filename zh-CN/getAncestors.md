@@ -8,7 +8,7 @@ firstSeen: 2020-10-15T09:28:34+03:00
 lastUpdated: 2021-01-05T22:45:34+02:00
 ---
 
-### 返回从文档根到给定元素的元素的所有祖先。
+# 返回从文档根到给定元素的元素的所有祖先。
 > Returns all the ancestors of an element from the document root to the given element.
 
 - 使用 `Node.parentNode` 和 `while` 循环向上移动元素的祖先树。

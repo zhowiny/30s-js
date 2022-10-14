@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 返回数组的第 n 个元素。
+# 返回数组的第 n 个元素。
 > Returns the nth element of an array.
 
 - 使用 `Array.prototype.slice()` 获取包含第 n 个元素的数组。

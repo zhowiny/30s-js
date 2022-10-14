@@ -7,7 +7,7 @@ author: chalarangelo
 firstSeen: 2022-07-20T05:00:00-04:00
 ---
 
-### 从 HTML 元素中删除所有属性。
+# 从 HTML 元素中删除所有属性。
 > Removes all attributes from an HTML element.
 
 - 使用 `Element.attributes` 和 `Object.values()` 获取元素的所有属性。

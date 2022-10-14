@@ -7,7 +7,7 @@ firstSeen: 2018-01-20T17:21:34+02:00
 lastUpdated: 2020-11-03T21:46:13+02:00
 ---
 
-### 创建一个元素数组，根据原始数组中的位置进行分组，并使用函数指定应如何组合分组值。
+# 创建一个元素数组，根据原始数组中的位置进行分组，并使用函数指定应如何组合分组值。
 > Creates an array of elements, grouped based on the position in the original arrays and using a function to specify how grouped values should be combined.
 
 - 检查提供的最后一个参数是否是一个函数。

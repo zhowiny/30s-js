@@ -7,7 +7,7 @@ firstSeen: 2018-01-08T16:58:23+02:00
 lastUpdated: 2020-11-03T21:46:13+02:00
 ---
 
-### 根据提供的函数对每个元素的真实性，将元素分组为两个数组。
+# 根据提供的函数对每个元素的真实性，将元素分组为两个数组。
 > Groups the elements into two arrays, depending on the provided function's truthiness for each element.
 
 - 使用 `Array.prototype.reduce()` 创建一个包含两个数组的数组。

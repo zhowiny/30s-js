@@ -8,7 +8,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-09-15T16:28:04+03:00
 ---
 
-### 从一个对象创建一个键值对数组。
+# 从一个对象创建一个键值对数组。
 > Creates an array of key-value pair arrays from an object.
 
 - 使用 `Object.entries()` 从给定对象获取键值对数组的数组。

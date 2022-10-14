@@ -8,7 +8,7 @@ firstSeen: 2020-01-03T15:32:35+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 创建一个对象，其中数组的唯一值作为键，它们的频率作为值。
+# 创建一个对象，其中数组的唯一值作为键，它们的频率作为值。
 > Creates an object with the unique values of an array as keys and their frequencies as the values.
 
 - 使用 `Array.prototype.reduce()` 将唯一值映射到对象的键，每次遇到相同值时添加到现有键。

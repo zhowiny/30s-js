@@ -7,7 +7,7 @@ firstSeen: 2018-01-15T13:25:18+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 生成指定范围内的 `n` 个随机整数数组。
+# 生成指定范围内的 `n` 个随机整数数组。
 > Generates an array of `n` random integers in the specified range.
 
 - 使用 `Array.from()` 创建一个特定长度的空数组。

@@ -7,7 +7,7 @@ cover: blog_images/painters-desk.jpg
 firstSeen: 2022-04-20T05:00:00-04:00
 ---
 
-### 转置一个二维数组。
+# 转置一个二维数组。
 > Transposes a two-dimensional array.
 
 - 使用 `Array.prototype.map()` 创建给定二维数组的转置。

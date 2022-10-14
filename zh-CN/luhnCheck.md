@@ -8,7 +8,7 @@ firstSeen: 2018-01-03T11:02:35+02:00
 lastUpdated: 2022-01-30T13:37:39+02:00
 ---
 
-### 实现 [Luhn 算法](https://en.wikipedia.org/wiki/Luhn_algorithm) 用于验证各种识别号码，例如信用卡号码、IMEI 号码、国家提供商标识符号码等。
+# 实现 [Luhn 算法](https://en.wikipedia.org/wiki/Luhn_algorithm) 用于验证各种识别号码，例如信用卡号码、IMEI 号码、国家提供商标识符号码等。
 > Implements the [Luhn Algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm) used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers, National Provider Identifier numbers etc.
 
 - 使用 `String.prototype.split()`、`Array.prototype.reverse()` 和 `Array.prototype.map()` 结合 `parseInt()` 来获取数字数组。

@@ -7,7 +7,7 @@ firstSeen: 2018-02-14T11:56:44+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 去柯里化一个函数直到深度 `n`。
+# 去柯里化一个函数直到深度 `n`。
 > Uncurries a function up to depth `n`.
 
 - 返回一个可变参数函数。

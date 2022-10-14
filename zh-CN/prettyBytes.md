@@ -7,7 +7,7 @@ firstSeen: 2018-01-01T18:20:09+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 将字节数转换为人类可读的字符串。
+# 将字节数转换为人类可读的字符串。
 > Converts a number in bytes to a human-readable string.
 
 - 使用要根据指数访问的单位的数组字典。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-27T17:12:34+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 将输入字符串哈希成一个整数。
+# 将输入字符串哈希成一个整数。
 > Hashes the input string into a whole number.
 
 - 使用 `String.prototype.split()` 和 `Array.prototype.reduce()` 利用位移，创建输入字符串的哈希。

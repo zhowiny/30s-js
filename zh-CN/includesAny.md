@@ -7,7 +7,7 @@ firstSeen: 2019-11-03T23:49:17+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查数组是否包含任何值
+# 检查数组是否包含任何值
 > Checks if at least one element of `values` is included in `arr`.
 
 - 使用 `Array.prototype.some()` 和 `Array.prototype.includes()` 检查 `values` 的至少一个元素是否包含在 `arr` 中。

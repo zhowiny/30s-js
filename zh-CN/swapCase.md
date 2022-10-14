@@ -8,7 +8,7 @@ firstSeen: 2020-11-15T13:09:03+02:00
 lastUpdated: 2020-11-15T13:09:03+02:00
 ---
 
-### 创建一个将大写字符转换为小写字符的字符串，反之亦然。
+# 创建一个将大写字符转换为小写字符的字符串，反之亦然。
 > Creates a string with uppercase characters converted to lowercase and vice versa.
 
 - 使用扩展运算符 (`...`) 将 `str` 转换为字符数组。

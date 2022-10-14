@@ -7,7 +7,7 @@ firstSeen: 2018-01-18T16:45:56+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 遍历对象的所有自己的属性，为每个属性运行回调。
+# 遍历对象的所有自己的属性，为每个属性运行回调。
 > Iterates over all own properties of an object, running a callback for each one.
 
 - 使用 `Object.keys()` 获取对象的所有属性。

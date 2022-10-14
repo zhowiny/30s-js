@@ -8,7 +8,7 @@ firstSeen: 2020-10-04T00:51:51+03:00
 lastUpdated: 2021-01-04T13:04:15+02:00
 ---
 
-### 将英里转换为公里。
+# 将英里转换为公里。
 > Converts miles to kilometers.
 
 - 遵循转换公式 `km = mi * 1.609344`。

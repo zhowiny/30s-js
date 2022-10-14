@@ -8,7 +8,7 @@ firstSeen: 2020-10-11T11:52:48+03:00
 lastUpdated: 2020-10-11T11:52:48+03:00
 ---
 
-### 创建一个冻结的 `Set` 对象。
+# 创建一个冻结的 `Set` 对象。
 > Creates a frozen `Set` object.
 
 - 使用 `Set` 构造函数从 `iterable` 创建一个新的 `Set` 对象。

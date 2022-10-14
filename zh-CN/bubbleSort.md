@@ -8,7 +8,7 @@ firstSeen: 2020-12-27T21:20:31+02:00
 lastUpdated: 2020-12-29T12:18:58+02:00
 ---
 
-### 使用冒泡排序算法对数字数组进行排序。
+# 使用冒泡排序算法对数字数组进行排序。
 > Sorts an array of numbers, using the bubble sort algorithm.
 
 - 声明一个变量，`swapped`，指示在当前迭代期间是否有任何值被交换。

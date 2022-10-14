@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T12:19:41+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 使用提供的比较器函数至少返回一次存在于两个数组中的任何一个中的每个元素。
+# 使用提供的比较器函数至少返回一次存在于两个数组中的任何一个中的每个元素。
 > Returns every element that exists in any of the two arrays at least once, using a provided comparator function.
 
 - 使用 `Array.prototype.findIndex()` 创建一个 `Set`，其中包含 `a` 的所有值和 `b` 中的值，比较器在 `a` 中找不到匹配项。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-28T14:44:40+02:00
 lastUpdated: 2020-10-18T20:24:28+03:00
 ---
 
-### 尝试使用提供的参数调用函数，返回结果或捕获的错误对象。
+# 尝试使用提供的参数调用函数，返回结果或捕获的错误对象。
 > Attempts to invoke a function with the provided arguments, returning either the result or the caught error object.
 
 - 使用 `try...catch` 块返回函数的结果或适当的错误。

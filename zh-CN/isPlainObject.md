@@ -7,7 +7,7 @@ firstSeen: 2018-01-19T13:59:12+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查提供的值是否是由 Object 构造函数创建的对象。
+# 检查提供的值是否是由 Object 构造函数创建的对象。
 > Checks if the provided value is an object created by the Object constructor.
 
 - 检查提供的值是否真实。

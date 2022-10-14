@@ -7,7 +7,7 @@ firstSeen: 2017-12-07T14:41:33+02:00
 lastUpdated: 2021-09-27T15:27:07+02:00
 ---
 
-### 返回给定数字数组的幂集。
+# 返回给定数字数组的幂集。
 > Returns the powerset of a given array of numbers.
 
 - 使用 `Array.prototype.reduce()` 结合 `Array.prototype.map()` 来迭代元素并组合成一个包含所有组合的数组。

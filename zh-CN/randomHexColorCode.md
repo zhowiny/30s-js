@@ -7,7 +7,7 @@ firstSeen: 2017-12-24T14:39:21+02:00
 lastUpdated: 2021-01-08T00:23:44+02:00
 ---
 
-### 生成随机的十六进制颜色代码。
+# 生成随机的十六进制颜色代码。
 > Generates a random hexadecimal color code.
 
 - 使用 `Math.random()` 生成随机的 24 位（6 * 4 位）十六进制数。

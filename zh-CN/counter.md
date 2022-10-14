@@ -7,7 +7,7 @@ firstSeen: 2018-05-06T17:55:46+03:00
 lastUpdated: 2020-11-01T20:50:57+02:00
 ---
 
-### 为指定的选择器创建一个具有指定范围、步长和持续时间的计数器。
+# 为指定的选择器创建一个具有指定范围、步长和持续时间的计数器。
 > Creates a counter with the specified range, step and duration for the specified selector.
 
 - 检查 `step` 是否有正确的符号并相应地改变它。

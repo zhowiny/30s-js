@@ -7,7 +7,7 @@ cover: blog_images/digital-nomad-7.jpg
 firstSeen: 2022-04-15T05:00:00-04:00
 ---
 
-### 如果元素包含在数组中，则从数组中删除该元素，如果不包含，则将其推送到数组中。
+# 如果元素包含在数组中，则从数组中删除该元素，如果不包含，则将其推送到数组中。
 > Removes an element from an array if it's included in the array, or pushes it to the array if it isn't.
 
 - 使用 `Array.prototype.includes()` 检查给定元素是否在数组中。

@@ -7,7 +7,7 @@ firstSeen: 2018-08-17T08:37:08+03:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 返回两个数组之间的唯一对称差，不包含来自任一数组的重复值。
+# 返回两个数组之间的唯一对称差，不包含来自任一数组的重复值。
 > Returns the unique symmetric difference between two arrays, not containing duplicate values from either array.
 
 - 在每个数组上使用 `Array.prototype.filter()` 和 `Array.prototype.includes()` 来删除另一个数组中包含的值。

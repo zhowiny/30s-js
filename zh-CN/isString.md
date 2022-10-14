@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查给定参数是否为字符串。仅适用于字符串原始类型。
+# 检查给定参数是否为字符串。仅适用于字符串原始类型。
 > Checks if the given argument is a string.
 > Only works for string primitives.
 

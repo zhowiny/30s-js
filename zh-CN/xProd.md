@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T15:55:03+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 通过从数组创建每个可能的对，从提供的两个数组中创建一个新数组。
+# 通过从数组创建每个可能的对，从提供的两个数组中创建一个新数组。
 > Creates a new array out of the two supplied by creating each possible pair from the arrays.
 
 - 使用 `Array.prototype.reduce()`、`Array.prototype.map()` 和 `Array.prototype.concat()` 从两个数组的元素中生成每个可能的对。

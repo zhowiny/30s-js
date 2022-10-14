@@ -7,7 +7,7 @@ firstSeen: 2018-06-27T20:26:43+03:00
 lastUpdated: 2020-11-03T21:55:08+02:00
 ---
 
-### 将二维数组转换为逗号分隔值 (CSV) 字符串。
+# 将二维数组转换为逗号分隔值 (CSV) 字符串。
 > Converts a 2D array to a comma-separated values (CSV) string.
 
 - 使用 `Array.prototype.map()` 和 `Array.prototype.join()` 将单个 一维数组（行）组合成字符串，使用提供的 `delimiter`。

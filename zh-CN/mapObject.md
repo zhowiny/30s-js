@@ -7,7 +7,7 @@ firstSeen: 2017-12-18T12:11:58+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 使用函数将数组的值映射到对象。
+# 使用函数将数组的值映射到对象。
 > Maps the values of an array to an object using a function.
 
 - 使用 `Array.prototype.reduce()` 将 `fn` 应用于 `arr` 中的每个元素，并将结果组合成一个对象。

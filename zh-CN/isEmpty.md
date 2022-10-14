@@ -7,7 +7,7 @@ firstSeen: 2018-01-23T19:25:17+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查 a 值是否为空对象/集合、没有可枚举属性或任何不被视为集合的类型。
+# 检查 a 值是否为空对象/集合、没有可枚举属性或任何不被视为集合的类型。
 > Checks if the a value is an empty object/collection, has no enumerable properties or is any type that is not considered a collection.
 
 - 检查提供的值是否为 `null` 或其 `length` 是否等于 `0`。

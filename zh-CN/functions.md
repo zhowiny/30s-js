@@ -7,7 +7,7 @@ firstSeen: 2018-01-11T21:18:58+02:00
 lastUpdated: 2020-10-20T11:21:07+03:00
 ---
 
-### 从对象自己的（和可选继承的）可枚举属性中获取函数属性名称数组。
+# 从对象自己的（和可选继承的）可枚举属性中获取函数属性名称数组。
 > Gets an array of function property names from own (and optionally inherited) enumerable properties of an object.
 
 - 使用 `Object.keys()` 来迭代对象自己的属性。

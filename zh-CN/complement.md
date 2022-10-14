@@ -7,7 +7,7 @@ firstSeen: 2020-05-13T11:28:33+03:00
 lastUpdated: 2020-09-15T16:28:04+03:00
 ---
 
-### 返回一个函数，它是给定函数 `fn` 的逻辑非。
+# 返回一个函数，它是给定函数 `fn` 的逻辑非。
 > Returns a function that is the logical complement of the given function, `fn`.
 
 - 在使用任何提供的 `args` 调用 `fn` 的结果上使用逻辑非 (`!`) 运算符。

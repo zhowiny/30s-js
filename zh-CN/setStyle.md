@@ -7,7 +7,7 @@ firstSeen: 2017-12-29T00:08:17+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 为指定的 HTML 元素设置 CSS 规则的值。
+# 为指定的 HTML 元素设置 CSS 规则的值。
 > Sets the value of a CSS rule for the specified HTML element.
 
 - 使用 `HTMLElement.style` 将指定元素的 CSS `rule` 的值设置为 `val`。

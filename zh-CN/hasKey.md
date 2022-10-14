@@ -8,7 +8,7 @@ firstSeen: 2019-10-15T15:45:13+03:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 检查目标值是否存在于 JSON 对象中。
+# 检查目标值是否存在于 JSON 对象中。
 > Checks if the target value exists in a JSON object.
 
 - 检查 `keys` 是否为非空，并使用 `Array.prototype.every()` 依次检查对象内部深度 `obj` 的键。

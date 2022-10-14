@@ -8,7 +8,7 @@ firstSeen: 2020-12-30T19:21:15+02:00
 lastUpdated: 2020-12-30T19:21:15+02:00
 ---
 
-### 从 HTML 元素中移除一个类。
+# 从 HTML 元素中移除一个类。
 > Removes a class from an HTML element.
 
 - 使用 `Element.classList` 和 `DOMTokenList.remove()` 从元素中删除指定的类。

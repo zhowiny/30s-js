@@ -7,7 +7,7 @@ firstSeen: 2018-07-18T20:49:07+03:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 根据提供的比较器函数，从右侧开始查找数组的所有唯一值。
+# 根据提供的比较器函数，从右侧开始查找数组的所有唯一值。
 > Finds all unique values of an array, based on a provided comparator function, starting from the right.
 
 - 使用 `Array.prototype.reduceRight()` 和 `Array.prototype.some()` 根据比较器函数 `fn` 创建一个仅包含每个值最后唯一出现的数组。

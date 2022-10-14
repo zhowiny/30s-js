@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 返回数组中除第一个元素之外的所有元素。
+# 返回数组中除第一个元素之外的所有元素。
 > Returns all elements in an array except for the first one.
 
 - 如果 `Array.prototype.length` 大于 `1`，则使用 `Array.prototype.slice()` 返回不包含第一个元素的数组。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-15T02:00:10+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 从末端取出 `n` 个元素创建到数组。
+# 从末端取出 `n` 个元素创建到数组。
 > Creates an array with `n` elements removed from the end.
 
 - 使用 `Array.prototype.slice()` 创建一个数组切片，其中包含从末尾获取的 `n` 个元素。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T12:53:18+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 在将提供的函数应用于两者的每个数组元素后，返回两个数组中存在的元素。
+# 在将提供的函数应用于两者的每个数组元素后，返回两个数组中存在的元素。
 > Returns the elements that exist in both arrays, after applying the provided function to each array element of both.
 
 - 通过将 `fn` 应用于 `b` 中的所有元素来创建一个 `Set`。

@@ -7,7 +7,7 @@ firstSeen: 2018-10-01T20:12:19+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查给定参数是否为流。
+# 检查给定参数是否为流。
 > Checks if the given argument is a stream.
 
 - 检查值是否不同于 `null`。

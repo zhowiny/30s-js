@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T16:41:31+02:00
 lastUpdated: 2020-11-03T21:35:12+02:00
 ---
 
-### 将数组分块为指定大小的较小数组。
+# 将数组分块为指定大小的较小数组。
 > Chunks an array into smaller arrays of a specified size.
 
 - 使用 `Array.from()` 创建一个新数组，该数组适合将要生成的块的数量。

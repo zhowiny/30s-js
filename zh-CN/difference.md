@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T16:41:31+02:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 计算两个数组之间的差异，而不过滤重复值。
+# 计算两个数组之间的差异，而不过滤重复值。
 > Calculates the difference between two arrays, without filtering duplicate values.
 
 - 从 `b` 创建一个 `Set` 以获取 `b` 中的唯一值。

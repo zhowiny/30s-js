@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-12-28T13:49:24+02:00
 ---
 
-### 计算两个或多个数字的最小公倍数。
+# 计算两个或多个数字的最小公倍数。
 > Calculates the least common multiple of two or more numbers.
 
 - 使用最大公约数 (GCD) 公式和 `lcm(x, y) = x * y / gcd(x, y)` 来确定最小公倍数。

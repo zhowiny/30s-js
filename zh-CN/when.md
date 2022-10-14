@@ -7,7 +7,7 @@ firstSeen: 2018-04-19T03:45:32+03:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 返回一个函数，该函数接受一个参数，如果为真则运行回调，如果为假则返回。
+# 返回一个函数，该函数接受一个参数，如果为真则运行回调，如果为假则返回。
 > Returns a function that takes one argument and runs a callback if it's truthy or returns it if falsy.
 
 - 返回一个期望单个值的函数，`x`，它根据 `pred` 返回适当的值。

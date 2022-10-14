@@ -7,7 +7,7 @@ firstSeen: 2018-02-19T15:47:47+02:00
 lastUpdated: 2020-11-15T17:13:42+02:00
 ---
 
-### 生成字符串的所有排列（包含重复项）。
+# 生成字符串的所有排列（包含重复项）。
 > Generates all permutations of a string (contains duplicates).
 
 - 使用递归。

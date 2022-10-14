@@ -7,7 +7,7 @@ firstSeen: 2020-09-18T14:25:07+03:00
 lastUpdated: 2020-09-18T14:25:07+03:00
 ---
 
-### 将 HSB 颜色元组转换为 RGB 格式。
+# 将 HSB 颜色元组转换为 RGB 格式。
 > Converts a HSB color tuple to RGB format.
 
 - 使用 [HSB 到 RGB 转换公式](https://en.wikipedia.org/wiki/HSL_and_HSV#HSV_to_RGB) 转换为适当的格式。

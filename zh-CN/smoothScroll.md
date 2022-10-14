@@ -7,7 +7,7 @@ firstSeen: 2018-03-02T18:22:51+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 将调用它的元素平滑滚动到浏览器窗口的可见区域。
+# 将调用它的元素平滑滚动到浏览器窗口的可见区域。
 > Smoothly scrolls the element on which it's called into the visible area of the browser window.
 
 - 使用 `Element.scrollIntoView()` 滚动元素。

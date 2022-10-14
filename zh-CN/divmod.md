@@ -8,7 +8,7 @@ firstSeen: 2020-10-07T23:59:13+03:00
 lastUpdated: 2020-10-07T23:59:13+03:00
 ---
 
-### 返回由给定数字的商和余数组成的数组。
+# 返回由给定数字的商和余数组成的数组。
 > Returns an array consisting of the quotient and remainder of the given numbers.
 
 - 使用 `Math.floor()` 得到除法 `x / y` 的商。

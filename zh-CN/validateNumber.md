@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:23:26+03:00
 ---
 
-### 检查给定值是否为数字。
+# 检查给定值是否为数字。
 > Checks if the given value is a number.
 
 - 使用 `parseFloat()` 尝试将 `n` 转换为数字。

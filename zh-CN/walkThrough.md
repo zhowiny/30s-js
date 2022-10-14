@@ -8,7 +8,7 @@ firstSeen: 2020-12-31T13:03:15+02:00
 lastUpdated: 2021-11-15T13:18:18+02:00
 ---
 
-### 创建一个生成器，它遍历给定对象的所有键。
+# 创建一个生成器，它遍历给定对象的所有键。
 > Creates a generator, that walks through all the keys of a given object.
 
 - 使用递归。

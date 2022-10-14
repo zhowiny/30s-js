@@ -8,7 +8,7 @@ firstSeen: 2020-03-23T15:07:23+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 从对象或其他可迭代对象创建键值对数组的数组。
+# 从对象或其他可迭代对象创建键值对数组的数组。
 > Creates an array of key-value pair arrays from an object or other iterable.
 
 - 检查 `Symbol.iterator` 是否已定义，如果是，则使用 `Array.prototype.entries()` 获取给定迭代的迭代器。

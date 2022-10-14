@@ -7,7 +7,7 @@ firstSeen: 2017-12-22T02:42:15+02:00
 lastUpdated: 2021-06-13T13:50:25+03:00
 ---
 
-### 将函数作为参数，然后将第一个参数作为最后一个参数。
+# 将函数作为参数，然后将第一个参数作为最后一个参数。
 > Takes a function as an argument, then makes the first argument the last.
 
 - 使用参数解构和带有可变参数的闭包。

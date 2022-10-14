@@ -8,7 +8,7 @@ firstSeen: 2020-10-04T00:26:51+03:00
 lastUpdated: 2020-10-08T02:22:39+03:00
 ---
 
-### 组合两个对象数组，使用指定的键来匹配对象。
+# 组合两个对象数组，使用指定的键来匹配对象。
 > Combines two arrays of objects, using the specified key to match objects.
 
 - 使用 `Array.prototype.reduce()` 和对象累加器，根据给定的 `prop` 组合两个数组中的所有对象。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-12T14:44:20+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 从两个或多个对象的组合中创建一个新对象。
+# 从两个或多个对象的组合中创建一个新对象。
 > Creates a new object from the combination of two or more objects.
 
 - 使用 `Array.prototype.reduce()` 结合 `Object.keys()` 来迭代所有对象和键。

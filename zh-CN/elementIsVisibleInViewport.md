@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 检查指定的元素是否在视口中可见。
+# 检查指定的元素是否在视口中可见。
 > Checks if the element specified is visible in the viewport.
 
 - 使用 `Element.getBoundingClientRect()`、`Window.innerWidth` 和 `Window.innerHeight` 来确定给定元素是否在视口中可见。

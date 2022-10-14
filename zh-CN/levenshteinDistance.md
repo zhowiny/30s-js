@@ -8,7 +8,7 @@ firstSeen: 2020-12-27T19:49:12+02:00
 lastUpdated: 2020-12-29T16:27:50+02:00
 ---
 
-### 使用 [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) 算法计算两个字符串之间的差异。
+# 使用 [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) 算法计算两个字符串之间的差异。
 > Calculates the difference between two strings, using the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) algorithm.
 
 - 如果两个字符串中的任何一个的 `length` 为零，则返回另一个字符串的 `length` 。

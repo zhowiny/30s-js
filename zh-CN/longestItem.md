@@ -7,7 +7,7 @@ firstSeen: 2018-01-08T21:33:47+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 获取任意数量的可迭代对象或具有 `length` 属性的对象并返回最长的对象。
+# 获取任意数量的可迭代对象或具有 `length` 属性的对象并返回最长的对象。
 > Takes any number of iterable objects or objects with a `length` property and returns the longest one.
 
 - 使用 `Array.prototype.reduce()`，比较对象的长度以找到最长的一个。

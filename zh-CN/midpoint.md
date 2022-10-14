@@ -7,7 +7,7 @@ firstSeen: 2018-11-15T17:49:04+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 计算两对 (x,y) 点之间的中点。
+# 计算两对 (x,y) 点之间的中点。
 > Calculates the midpoint between two pairs of (x,y) points.
 
 - 解构数组以获得`x1`、`y1`、`x2`和`y2`。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-11-13T19:49:57+02:00
 ---
 
-### 接受一个数字并将其作为带有正确序数指示符后缀的字符串返回。
+# 接受一个数字并将其作为带有正确序数指示符后缀的字符串返回。
 > Takes a number and returns it as a string with the correct ordinal indicator suffix.
 
 - 使用取模运算符（`%`）求个位数和十位数的值。

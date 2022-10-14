@@ -7,7 +7,7 @@ firstSeen: 2018-01-03T13:17:19+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 根据输入数字返回单词的单数或复数形式，如果提供的话，使用可选字典。
+# 根据输入数字返回单词的单数或复数形式，如果提供的话，使用可选字典。
 > Returns the singular or plural form of the word based on the input number, using an optional dictionary if supplied.
 
 - 使用闭包来定义一个函数，根据 `num` 的值将给定的 `word` 复数。

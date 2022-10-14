@@ -7,7 +7,7 @@ firstSeen: 2020-10-01T23:15:49+03:00
 lastUpdated: 2020-10-04T11:24:27+03:00
 ---
 
-### 将 HSL 颜色元组转换为 RGB 格式。
+# 将 HSL 颜色元组转换为 RGB 格式。
 > Converts a HSL color tuple to RGB format.
 
 - 使用 [HSL 到 RGB 转换公式](https://en.wikipedia.org/wiki/HSL_and_HSV#HSL_to_RGB) 转换为适当的格式。

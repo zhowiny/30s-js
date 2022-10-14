@@ -8,7 +8,7 @@ firstSeen: 2021-01-05T22:47:21+02:00
 lastUpdated: 2021-01-06T13:04:18+02:00
 ---
 
-### 查找元素的所有祖先，直到与指定选择器匹配的元素。
+# 查找元素的所有祖先，直到与指定选择器匹配的元素。
 > Finds all the ancestors of an element up until the element matched by the specified selector.
 
 - 使用 `Node.parentNode` 和 `while` 循环向上移动元素的祖先树。

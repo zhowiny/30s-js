@@ -8,7 +8,7 @@ firstSeen: 2020-05-13T13:25:33+03:00
 lastUpdated: 2020-10-18T20:24:28+03:00
 ---
 
-### 创建一个连续元素的`n`元组数组。
+# 创建一个连续元素的`n`元组数组。
 > Creates an array of `n`-tuples of consecutive elements.
 
 - 使用 `Array.prototype.slice()` 和 `Array.prototype.map()` 创建一个适当长度的数组。

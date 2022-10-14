@@ -7,7 +7,7 @@ firstSeen: 2017-12-20T11:33:20+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 对对象数组进行排序，按属性和顺序排序。
+# 对对象数组进行排序，按属性和顺序排序。
 > Sorts an array of objects, ordered by properties and orders.
 
 - 在 `props` 数组上使用 `Array.prototype.sort()`、`Array.prototype.reduce()`，默认值为 `0`。

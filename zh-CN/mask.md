@@ -7,7 +7,7 @@ firstSeen: 2018-01-01T13:02:59+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 用指定的掩码字符替换除最后一个字符之外的所有字符。
+# 用指定的掩码字符替换除最后一个字符之外的所有字符。
 > Replaces all but the last `num` of characters with the specified mask character.
 
 - 使用 `String.prototype.slice()` 来抓取将保持未屏蔽的字符部分。

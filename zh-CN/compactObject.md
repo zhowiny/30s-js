@@ -7,7 +7,7 @@ firstSeen: 2020-11-27T13:57:41+02:00
 lastUpdated: 2020-11-27T13:57:41+02:00
 ---
 
-### 从对象或数组中深度删除所有虚假值。
+# 从对象或数组中深度删除所有虚假值。
 > Deeply removes all falsy values from an object or array.
 
 - 使用递归。

@@ -8,7 +8,7 @@ firstSeen: 2019-12-31T11:34:26+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 从数组中获取一个随机元素，使用提供的 `weights` 作为每个元素的概率。
+# 从数组中获取一个随机元素，使用提供的 `weights` 作为每个元素的概率。
 > Gets a random element from an array, using the provided `weights` as the probabilities for each element.
 
 - 使用 `Array.prototype.reduce()` 为 `weights` 中的每个值创建一个部分和数组。

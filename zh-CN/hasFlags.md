@@ -7,7 +7,7 @@ firstSeen: 2018-01-01T18:24:43+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 检查当前进程的参数是否包含指定的标志。
+# 检查当前进程的参数是否包含指定的标志。
 > Checks if the current process's arguments contain the specified flags.
 
 - 使用 `Array.prototype.every()` 和 `Array.prototype.includes()` 检查 `process.argv` 是否包含所有指定的标志。

@@ -7,7 +7,7 @@ firstSeen: 2019-12-16T16:43:13+02:00
 lastUpdated: 2021-01-08T00:23:44+02:00
 ---
 
-### 计算两个向量之间的角度 (theta)。
+# 计算两个向量之间的角度 (theta)。
 > Calculates the angle (theta) between two vectors.
 
 - 使用 `Array.prototype.reduce()`、`Math.pow()` 和 `Math.sqrt()` 计算每个向量的大小和两个向量的标量积。

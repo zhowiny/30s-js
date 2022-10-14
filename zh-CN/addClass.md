@@ -8,7 +8,7 @@ firstSeen: 2020-12-30T19:21:15+02:00
 lastUpdated: 2020-12-30T19:21:15+02:00
 ---
 
-### 添加class到HTML元素
+# 添加class到HTML元素
 > Adds a class to an HTML element.
 
 - 使用 `Element.classList` and `DOMTokenList.add()` 将指定的class添加到元素。

@@ -7,7 +7,7 @@ cover: blog_images/coffee-drip.jpg
 firstSeen: 2021-07-25T05:00:00-04:00
 ---
 
-### 深度合并两个对象，使用一个函数来处理两者中存在的`keys`。
+# 深度合并两个对象，使用一个函数来处理两者中存在的`keys`。
 > Deeply merges two objects, using a function to handle keys present in both.
 
 - 使用 `Object.keys()` 获取两个对象的键，从它们创建一个 `Set` 并使用扩展运算符 (`...`) 创建一个包含所有唯一键的数组。

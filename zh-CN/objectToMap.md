@@ -8,7 +8,7 @@ cover: blog_images/succulent-2.jpg
 firstSeen: 2022-06-16T05:00:00-04:00
 ---
 
-### 将对象转换为 `Map`。
+# 将对象转换为 `Map`。
 > Converts an object to a `Map`.
 
 - 使用 `Object.entries()` 将对象转换为键值对数组。

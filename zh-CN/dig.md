@@ -7,7 +7,7 @@ firstSeen: 2018-07-08T23:06:24+03:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 根据给定键获取嵌套 JSON 对象中的目标值。
+# 根据给定键获取嵌套 JSON 对象中的目标值。
 > Gets the target value in a nested JSON object, based on the given key.
 
 - 使用 `in` 运算符检查 `obj` 中是否存在 `target`。

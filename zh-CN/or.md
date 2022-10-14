@@ -8,7 +8,7 @@ firstSeen: 2020-05-13T11:35:41+03:00
 lastUpdated: 2021-01-04T13:04:15+02:00
 ---
 
-### 检查是否至少有一个参数为 `true`。
+# 检查是否至少有一个参数为 `true`。
 > Checks if at least one of the arguments is `true`.
 
 - 对两个给定值使用逻辑或 (`||`) 运算符。

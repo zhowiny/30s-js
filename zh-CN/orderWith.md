@@ -7,7 +7,7 @@ firstSeen: 2020-10-04T12:11:10+03:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 根据提供的有序数组对按属性排序的对象数组进行排序。
+# 根据提供的有序数组对按属性排序的对象数组进行排序。
 > Sorts an array of objects, ordered by a property, based on the array of orders provided.
 
 - 使用 `Array.prototype.reduce()` 从 `order` 数组创建一个对象，其中值作为键，它们的原始索引作为值。

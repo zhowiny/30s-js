@@ -7,7 +7,7 @@ firstSeen: 2018-02-19T15:47:47+02:00
 lastUpdated: 2020-12-28T13:49:24+02:00
 ---
 
-### 生成数组元素的所有排列（包含重复项）。
+# 生成数组元素的所有排列（包含重复项）。
 > Generates all permutations of an array's elements (contains duplicates).
 
 - 使用递归。

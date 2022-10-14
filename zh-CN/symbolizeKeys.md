@@ -7,7 +7,7 @@ cover: blog_images/rocky-lake.jpg
 firstSeen: 2021-08-01T05:00:00-04:00
 ---
 
-### 创建一个新对象，将每个键转换为 `Symbol`。
+# 创建一个新对象，将每个键转换为 `Symbol`。
 > Creates a new object, converting each key to a `Symbol`.
 
 - 使用 `Object.keys()` 获取 `obj` 的键。

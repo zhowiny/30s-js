@@ -8,7 +8,7 @@ firstSeen: 2020-09-04T20:20:11+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查对象是否被深度冻结。
+# 检查对象是否被深度冻结。
 > Checks if an object is deeply frozen.
 
 - 使用递归。

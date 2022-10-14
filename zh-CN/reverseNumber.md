@@ -7,7 +7,7 @@ firstSeen: 2020-07-17T16:41:28+03:00
 lastUpdated: 2020-09-18T21:19:23+03:00
 ---
 
-### 反转一个数字。
+# 反转一个数字。
 > Reverses a number.
 
 - 使用 `Object.prototype.toString()` 将 `n` 转换为字符串。

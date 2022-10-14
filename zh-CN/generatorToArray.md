@@ -8,7 +8,7 @@ firstSeen: 2020-12-31T13:22:18+02:00
 lastUpdated: 2020-12-31T13:22:18+02:00
 ---
 
-### 将生成器函数的输出转换为数组。
+# 将生成器函数的输出转换为数组。
 > Converts the output of a generator function to an array.
 
 - 使用扩展运算符 (`...`) 将生成器函数的输出转换为数组。

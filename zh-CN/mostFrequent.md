@@ -8,7 +8,7 @@ firstSeen: 2020-01-03T15:32:46+02:00
 lastUpdated: 2020-09-15T16:28:04+03:00
 ---
 
-### 返回数组中出现频率最高的元素。
+# 返回数组中出现频率最高的元素。
 > Returns the most frequent element in an array.
 
 - 使用 `Array.prototype.reduce()` 将唯一值映射到对象的键，每次遇到相同值时添加到现有键。

@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 根据给定的函数对数组的元素进行分组。
+# 根据给定的函数对数组的元素进行分组。
 > Groups the elements of an array based on the given function.
 
 - 使用 `Array.prototype.map()` 将数组的值映射到函数或属性名称。

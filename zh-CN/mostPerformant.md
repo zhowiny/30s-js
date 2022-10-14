@@ -7,7 +7,7 @@ firstSeen: 2018-02-14T13:38:45+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 返回执行最快的函数数组中函数的索引。
+# 返回执行最快的函数数组中函数的索引。
 > Returns the index of the function in an array of functions which executed the fastest.
 
 - 使用 `Array.prototype.map()` 生成一个数组，其中每个值是在 `iterations` 次之后执行函数所花费的总时间。

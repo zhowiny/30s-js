@@ -7,7 +7,7 @@ firstSeen: 2017-12-19T23:38:18+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 初始化给定宽度和高度和值的二维数组。
+# 初始化给定宽度和高度和值的二维数组。
 > Initializes a 2D array of given width and height and value.
 
 - 使用 `Array.from()` 和 `Array.prototype.map()` 生成 `h` 行，其中每个行都是大小为 `w` 的新数组。

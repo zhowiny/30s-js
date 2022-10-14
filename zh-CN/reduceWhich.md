@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T12:41:03+02:00
 lastUpdated: 2020-11-03T22:11:18+02:00
 ---
 
-### 在应用提供的函数设置比较规则后，返回数组的最小值/最大值。
+# 在应用提供的函数设置比较规则后，返回数组的最小值/最大值。
 > Returns the minimum/maximum value of an array, after applying the provided function to set the comparing rule.
 
 - 结合使用 `Array.prototype.reduce()` 和 `comarator` 函数来获取数组中的适当元素。

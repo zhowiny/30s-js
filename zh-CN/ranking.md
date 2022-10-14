@@ -7,7 +7,7 @@ cover: blog_images/eagle.jpg
 firstSeen: 2022-04-13T05:00:00-04:00
 ---
 
-### 根据比较器函数计算数组的排名。
+# 根据比较器函数计算数组的排名。
 > Calculates the ranking of an array based on a comparator function.
 
 根据比较器函数计算数组的排名。- 使用 `Array.prototype.map()` 和 `Array.prototype.filter()` 使用提供的比较器函数将每个元素映射到排名。

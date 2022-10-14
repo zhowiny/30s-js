@@ -8,7 +8,7 @@ firstSeen: 2020-12-28T15:38:40+02:00
 lastUpdated: 2020-12-29T16:32:46+02:00
 ---
 
-### 使用 [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) 算法将给定数据分组到 `k` 个集群中。
+# 使用 [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) 算法将给定数据分组到 `k` 个集群中。
 > Groups the given data into `k` clusters, using the [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) algorithm.
 
 - 使用 `Array.from()` 和 `Array.prototype.slice()` 为集群 `centroids`、`distances` 和 `classes` 初始化适当的变量。

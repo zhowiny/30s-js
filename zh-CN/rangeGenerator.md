@@ -8,7 +8,7 @@ firstSeen: 2020-10-11T17:05:55+03:00
 lastUpdated: 2020-10-11T17:05:55+03:00
 ---
 
-### 创建一个生成器，使用给定的步骤生成给定范围内的所有值。
+# 创建一个生成器，使用给定的步骤生成给定范围内的所有值。
 > Creates a generator, that generates all values in the given range using the given step.
 
 - 使用 `while` 循环从 `start` 到 `end` 迭代，使用 `yield` 返回每个值，然后按 `step` 递增。

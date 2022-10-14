@@ -7,7 +7,7 @@ cover: blog_images/digital-nomad-16.jpg
 firstSeen: 2022-07-22T05:00:00-04:00
 ---
 
-### 获取数组的前 n 个元素。
+# 获取数组的前 n 个元素。
 > Gets the first `n` elements of an array.
 
 - 使用 `Array.prototype.slice()` 以 `0` 开始值和 `n` 结束值获取 `arr` 的前 `n` 个元素。

@@ -8,7 +8,7 @@ firstSeen: 2021-01-06T13:57:56+02:00
 lastUpdated: 2021-01-06T13:57:56+02:00
 ---
 
-### 每当用户在指定元素之外单击时运行回调。
+# 每当用户在指定元素之外单击时运行回调。
 > Runs the callback whenever the user clicks outside of the specified element.
 
 - 使用 `EventTarget.addEventListener()` 来监听 `'click'` 事件。

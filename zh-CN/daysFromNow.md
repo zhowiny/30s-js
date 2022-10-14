@@ -7,7 +7,7 @@ firstSeen: 2020-10-09T02:49:17+03:00
 lastUpdated: 2022-01-30T11:48:07+03:00
 ---
 
-### 以字符串表示形式计算从今天开始的 `n` 天的日期。
+# 以字符串表示形式计算从今天开始的 `n` 天的日期。
 > Calculates the date of `n` days from today as a string representation.
 
 - Use the `Date` constructor to get the current date.

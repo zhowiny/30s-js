@@ -8,7 +8,7 @@ firstSeen: 2018-09-27T01:55:30+03:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 具有与 [`Array.prototype.splice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) 相同的功能，但返回一个新的数组而不是改变原始数组。
+# 具有与 [`Array.prototype.splice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) 相同的功能，但返回一个新的数组而不是改变原始数组。
 > Has the same functionality as [`Array.prototype.splice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice), but returning a new array instead of mutating the original array.
 
 - 在删除现有元素和/或添加新元素后，使用 `Array.prototype.slice()` 和 `Array.prototype.concat()` 获取包含新内容的数组。

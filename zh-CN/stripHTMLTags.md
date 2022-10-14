@@ -7,7 +7,7 @@ firstSeen: 2018-01-26T14:17:29+02:00
 lastUpdated: 2020-09-15T16:28:04+03:00
 ---
 
-### 从字符串中删除 HTML/XML 标记。
+# 从字符串中删除 HTML/XML 标记。
 > Removes HTML/XML tags from string.
 
 - 使用正则表达式从字符串中删除 HTML/XML 标记。

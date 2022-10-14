@@ -8,7 +8,7 @@ firstSeen: 2021-03-16T22:50:40+02:00
 lastUpdated: 2021-03-16T22:50:40+02:00
 ---
 
-### 将可迭代对象分块为指定大小的较小数组。
+# 将可迭代对象分块为指定大小的较小数组。
 > Chunks an iterable into smaller arrays of a specified size.
 
 - 在给定的可迭代对象上使用 `for...of` 循环，使用 `Array.prototype.push()` 将每个新值添加到当前的 `chunk`。

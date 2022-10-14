@@ -8,7 +8,7 @@ firstSeen: 2021-04-24T12:48:49+03:00
 lastUpdated: 2021-04-24T12:48:49+03:00
 ---
 
-### 计算两个日期之间的差异（以分钟为单位）。
+# 计算两个日期之间的差异（以分钟为单位）。
 > Calculates the difference (in minutes) between two dates.
 
 - 减去两个 `Date` 对象并除以一分钟的毫秒数以获得它们之间的差异（以分钟为单位）。

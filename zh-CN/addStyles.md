@@ -8,7 +8,7 @@ firstSeen: 2021-01-07T00:37:43+02:00
 lastUpdated: 2021-01-07T00:37:43+02:00
 ---
 
-### 将提供的样式添加到给定的 HTML 元素。
+# 将提供的样式添加到给定的 HTML 元素。
 > Adds the provided styles to the given HTML element.
 
 - 使用 `Object.assign()` 和 `ElementCSSInlineStyle.style` 将提供的“styles”对象合并到给定元素的样式中。

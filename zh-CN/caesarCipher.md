@@ -8,7 +8,7 @@ firstSeen: 2020-12-28T20:10:18+02:00
 lastUpdated: 2020-12-29T12:29:21+02:00
 ---
 
-### 使用凯撒密码加密或解密给定的字符串。
+# 使用凯撒密码加密或解密给定的字符串。
 > Encrypts or decrypts a given string using the Caesar cipher.
 
 - 使用模 (`%`) 运算符和三元运算符 (`?`) 计算正确的加密/解密密钥。

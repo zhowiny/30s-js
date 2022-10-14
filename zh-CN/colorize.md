@@ -7,7 +7,7 @@ firstSeen: 2018-01-13T13:36:59+02:00
 lastUpdated: 2020-11-03T22:11:18+02:00
 ---
 
-### 将特殊字符添加到文本以在控制台中以彩色打印（结合 `console.log()`）。
+# 将特殊字符添加到文本以在控制台中以彩色打印（结合 `console.log()`）。
 > Adds special characters to text to print in color in the console (combined with `console.log()`).
 
 - 使用模板文字和特殊字符将适当的颜色代码添加到字符串输出。

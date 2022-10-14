@@ -7,7 +7,7 @@ firstSeen: 2018-01-11T13:45:53+02:00
 lastUpdated: 2020-11-03T22:11:18+02:00
 ---
 
-### 根据给定函数对数组的元素进行分组，并返回每组中元素的计数。
+# 根据给定函数对数组的元素进行分组，并返回每组中元素的计数。
 > Groups the elements of an array based on the given function and returns the count of elements in each group.
 
 - 使用 `Array.prototype.map()` 将数组的值映射到函数或属性名称。

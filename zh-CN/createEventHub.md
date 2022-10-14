@@ -7,7 +7,7 @@ firstSeen: 2018-01-05T15:07:26+02:00
 lastUpdated: 2020-09-15T16:28:04+03:00
 ---
 
-### 使用 `emit`、`on` 和 `off` 方法创建一个 pub/sub ([publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)) 事件中心。
+# 使用 `emit`、`on` 和 `off` 方法创建一个 pub/sub ([publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)) 事件中心。
 > Creates a pub/sub ([publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)) event hub with `emit`, `on`, and `off` methods.
 
 - 使用带有 `null` 参数的 `Object.create()` 创建一个不从 `Object.prototype` 继承属性的空 `hub` 对象。

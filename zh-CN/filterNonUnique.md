@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-11-02T19:40:45+02:00
 ---
 
-### 创建一个过滤掉非唯一值的数组。
+# 创建一个过滤掉非唯一值的数组。
 > Creates an array with the non-unique values filtered out.
 
 - 使用 `Set` 构造函数和扩展运算符 (`...`) 在 `arr` 中创建唯一值数组。

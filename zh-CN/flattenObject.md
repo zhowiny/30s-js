@@ -7,7 +7,7 @@ firstSeen: 2018-02-07T11:30:18+02:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
 
-### 使用 `key` 的路径展平对象。
+# 使用 `key` 的路径展平对象。
 > Flattens an object with the paths for keys.
 
 - 使用递归。

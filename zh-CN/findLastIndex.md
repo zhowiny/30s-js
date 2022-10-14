@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T13:01:51+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 查找提供的函数为其返回真值的最后一个元素的索引。
+# 查找提供的函数为其返回真值的最后一个元素的索引。
 > Finds the index of the last element for which the provided function returns a truthy value.
 
 - 使用 `Array.prototype.map()` 将每个元素映射到具有其索引和值的数组。

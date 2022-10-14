@@ -7,7 +7,7 @@ firstSeen: 2018-10-07T16:24:36+03:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 从一个元素中获取所有图像并将它们放入一个数组中。
+# 从一个元素中获取所有图像并将它们放入一个数组中。
 > Fetches all images from within an element and puts them into an array.
 
 - 使用 `Element.getElementsByTagName()` 获取提供的元素内的所有 `<img>` 元素。

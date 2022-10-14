@@ -7,7 +7,7 @@ firstSeen: 2018-02-24T13:49:56+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 将相互关联的对象递归嵌套在一个平面数组中。
+# 将相互关联的对象递归嵌套在一个平面数组中。
 > Nests recursively objects linked to one another in a flat array.
 
 - 使用递归。

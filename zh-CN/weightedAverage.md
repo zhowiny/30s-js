@@ -7,7 +7,7 @@ firstSeen: 2020-10-04T00:38:33+03:00
 lastUpdated: 2020-11-03T21:46:13+02:00
 ---
 
-### 计算两个或多个数字的加权平均值。
+# 计算两个或多个数字的加权平均值。
 > Calculates the weighted average of two or more numbers.
 
 - 使用 `Array.prototype.reduce()` 创建值的加权总和和权重总和。

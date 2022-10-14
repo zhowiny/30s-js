@@ -7,7 +7,7 @@ firstSeen: 2017-12-22T19:14:51+02:00
 lastUpdated: 2020-12-16T13:42:27+02:00
 ---
 
-### 将字符串转换为烤串式字符串。
+# 将字符串转换为烤串式字符串。
 > Converts a string to kebab case.
 
 - 使用 `String.prototype.match()` 使用适当的正则表达式将字符串分解为单词。

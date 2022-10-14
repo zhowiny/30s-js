@@ -7,7 +7,7 @@ firstSeen: 2018-01-23T22:12:56+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 执行从左到右的功能组合。
+# 执行从左到右的功能组合。
 > Performs left-to-right function composition.
 
 - 使用 `Array.prototype.reduce()` 执行从左到右的函数组合。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-17T21:23:46+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查提供的值是否属于指定类型。
+# 检查提供的值是否属于指定类型。
 > Checks if the provided value is of the specified type.
 
 - 使用 `Array.prototype.includes()` 确保值不是 `undefined` 或 `null`。

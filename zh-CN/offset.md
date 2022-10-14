@@ -7,7 +7,7 @@ firstSeen: 2018-04-10T19:07:50+03:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 将指定数量的元素移动到数组的末尾。
+# 将指定数量的元素移动到数组的末尾。
 > Moves the specified amount of elements to the end of the array.
 
 - 使用 `Array.prototype.slice()` 两次获取指定索引之后的元素和之前的元素。

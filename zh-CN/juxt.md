@@ -7,7 +7,7 @@ firstSeen: 2020-05-20T19:58:39+03:00
 lastUpdated: 2020-10-20T23:29:39+03:00
 ---
 
-### 将几个函数作为参数并返回一个函数，该函数是这些函数的并列。
+# 将几个函数作为参数并返回一个函数，该函数是这些函数的并列。
 > Takes several functions as argument and returns a function that is the juxtaposition of those functions.
 
 - 使用 `Array.prototype.map()` 返回一个 `fn`，它可以采用可变数量的 `args`。

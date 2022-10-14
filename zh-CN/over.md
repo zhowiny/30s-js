@@ -7,7 +7,7 @@ firstSeen: 2018-01-23T21:02:17+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 创建一个函数，该函数使用它接收的参数调用每个提供的函数并返回结果。
+# 创建一个函数，该函数使用它接收的参数调用每个提供的函数并返回结果。
 > Creates a function that invokes each provided function with the arguments it receives and returns the results.
 
 - 使用 `Array.prototype.map()` 和 `Function.prototype.apply()` 将每个函数应用于给定的参数。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-01T17:33:46+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 反转对象反转对象的键值对，而不改变它。
+# 反转对象反转对象的键值对，而不改变它。
 > Inverts the key-value pairs of an object, without mutating it.
 
 - 使用 `Object.keys()` 和 `Array.prototype.reduce()` 反转对象的键值对并应用提供的函数（如果有）。

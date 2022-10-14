@@ -7,7 +7,7 @@ firstSeen: 2018-01-26T14:14:53+02:00
 lastUpdated: 2020-11-03T22:11:18+02:00
 ---
 
-### 将对象的方法绑定到对象本身，覆盖现有方法。
+# 将对象的方法绑定到对象本身，覆盖现有方法。
 > Binds methods of an object to the object itself, overwriting the existing method.
 
 - 使用 `Array.prototype.forEach()` 迭代给定的 `fns`。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-01T15:49:25+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 计算从 `start` 到 `end`（包括两者）所有数字的幂的总和。
+# 计算从 `start` 到 `end`（包括两者）所有数字的幂的总和。
 > Calculates the sum of the powers of all the numbers from `start` to `end` (both inclusive).
 
 - 使用 `Array.prototype.fill()` 创建一个包含目标范围内所有数字的数组。

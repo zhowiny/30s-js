@@ -7,7 +7,7 @@ firstSeen: 2020-10-08T16:39:23+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查是否可以从给定的值创建有效的日期对象。
+# 检查是否可以从给定的值创建有效的日期对象。
 > Checks if a valid date object can be created from the given values.
 
 - 使用扩展运算符 (`...`) 将参数数组传递给 `Date` 构造函数。

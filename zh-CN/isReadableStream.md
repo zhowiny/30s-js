@@ -7,7 +7,7 @@ firstSeen: 2018-10-03T22:16:10+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查给定参数是否是可读流。
+# 检查给定参数是否是可读流。
 > Checks if the given argument is a readable stream.
 
 - 检查值是否不同于 `null`。

@@ -8,7 +8,7 @@ firstSeen: 2020-05-04T12:20:46+03:00
 lastUpdated: 2022-01-30T13:10:13+02:00
 ---
 
-### 创建一个部分和数组
+# 创建一个部分和数组
 > Creates an array of partial sums.
 
 - 使用 `Array.prototype.reduce()`, 用空数组初始化累加器, 迭代 `nums`。

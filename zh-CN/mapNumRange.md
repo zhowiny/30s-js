@@ -7,7 +7,7 @@ firstSeen: 2019-02-23T12:38:16+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 将数字从一个范围映射到另一个范围。
+# 将数字从一个范围映射到另一个范围。
 > Maps a number from one range to another range.
 
 - 从`inMin`-`inMax`返回`outMin`-`outMax`之间映射的`num`。

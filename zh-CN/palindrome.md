@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T16:41:31+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 检查给定的字符串是否是回文。
+# 检查给定的字符串是否是回文。
 > Checks if the given string is a palindrome.
 
 - 将字符串规范化为 `String.prototype.toLowerCase()` 并使用 `String.prototype.replace()` 从中删除非字母数字字符。

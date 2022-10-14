@@ -7,7 +7,7 @@ firstSeen: 2017-12-31T13:55:55+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 返回记忆（缓存）的函数。
+# 返回记忆（缓存）的函数。
 > Returns the memoized (cached) function.
 
 - 通过实例化一个新的 `Map` 对象来创建一个空缓存。

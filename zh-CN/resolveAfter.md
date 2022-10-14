@@ -7,7 +7,7 @@ cover: blog_images/filter-coffee-pot.jpg
 firstSeen: 2022-01-08T05:00:00-04:00
 ---
 
-### 创建一个promise，在给定的时间后resolve提供的值。
+# 创建一个promise，在给定的时间后resolve提供的值。
 > Creates a promise that resolves after a given amount of time to the provided value.
 
 - 使用 `Promise` 构造函数创建一个新的 Promise。

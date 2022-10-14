@@ -7,7 +7,7 @@ firstSeen: 2018-02-07T11:30:18+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 使用键的路径恢复展开对象。
+# 使用键的路径恢复展开对象。
 > Unflatten an object with the paths for keys.
 
 - 使用嵌套的 `Array.prototype.reduce()` 将平面路径转换为叶节点。

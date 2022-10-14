@@ -7,7 +7,7 @@ cover: blog_images/portal-timelapse.jpg
 firstSeen: 2021-06-21T05:00:00-04:00
 ---
 
-### 创建一个生成器，它使用给定的步骤生成给定范围内的所有日期。
+# 创建一个生成器，它使用给定的步骤生成给定范围内的所有日期。
 > Creates a generator, that generates all dates in the given range using the given step.
 
 - 使用`while`循环从`start`迭代到`end`，使用`yield`返回范围内的每个日期，使用`Date`构造函数。

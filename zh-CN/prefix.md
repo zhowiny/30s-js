@@ -7,7 +7,7 @@ firstSeen: 2018-03-08T15:22:54+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 基于当前浏览器为 CSS 属性添加前缀。
+# 基于当前浏览器为 CSS 属性添加前缀。
 > Prefixes a CSS property based on the current browser.
 
 - 在供应商前缀字符串数组上使用 `Array.prototype.findIndex()` 来测试 `Document.body` 是否在其 `CSSStyleDeclaration` 对象中定义了其中一个，否则返回 `null`。

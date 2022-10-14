@@ -8,7 +8,7 @@ firstSeen: 2021-04-22T08:27:41+03:00
 lastUpdated: 2021-04-22T08:27:41+03:00
 ---
 
-### 检查两个 URL 是否在同一个来源。
+# 检查两个 URL 是否在同一个来源。
 > Checks if two URLs are on the same origin.
 
 - 使用 `URL.protocol` 和 `URL.host` 检查两个 URL 是否具有相同的协议和主机。

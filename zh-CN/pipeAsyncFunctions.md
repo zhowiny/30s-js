@@ -7,7 +7,7 @@ firstSeen: 2018-01-27T18:17:44+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 为异步函数执行从左到右的函数组合。
+# 为异步函数执行从左到右的函数组合。
 > Performs left-to-right function composition for asynchronous functions.
 
 - 使用 `Array.prototype.reduce()` 和扩展运算符 (`...`) 使用 `Promise.prototype.then()` 执行函数组合。

@@ -7,7 +7,7 @@ cover: blog_images/racoon.jpg
 firstSeen: 2022-04-08T05:00:00-04:00
 ---
 
-### 从数组中删除虚假值，并将其余值结合到字符串中。
+# 从数组中删除虚假值，并将其余值结合到字符串中。
 > Removes falsy values from an array and combines the remaining values into a string.
 
 - 使用 `Array.prototype.filter()` 过滤掉虚假值（`false`、`null`、`0`、`""`、`undefined` 和 `NaN`）。

@@ -7,7 +7,7 @@ firstSeen: 2018-11-12T15:45:36+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查给定值是否等于负零（`-0`）。
+# 检查给定值是否等于负零（`-0`）。
 > Checks if the given value is equal to negative zero (`-0`).
 
 - 检查传递的值是否等于 `0` ，以及 `1` 除以该值是否等于 `-Infinity`。

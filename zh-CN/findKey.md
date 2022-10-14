@@ -7,7 +7,7 @@ firstSeen: 2018-01-23T18:23:20+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 找到满足提供的测试功能的第一个键。否则返回 `undefined`。
+# 找到满足提供的测试功能的第一个键。否则返回 `undefined`。
 > Finds the first key that satisfies the provided testing function.
 > Otherwise `undefined` is returned.
 

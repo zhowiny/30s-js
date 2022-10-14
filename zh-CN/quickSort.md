@@ -8,7 +8,7 @@ firstSeen: 2017-12-28T13:42:41+02:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 使用快速排序算法对数字数组进行排序。
+# 使用快速排序算法对数字数组进行排序。
 > Sorts an array of numbers, using the quicksort algorithm.
 
 - 使用递归。

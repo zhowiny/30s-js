@@ -7,7 +7,7 @@ firstSeen: 2017-12-21T16:29:51+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 将数字转换为带有分位符格式的字符串。
+# 将数字转换为带有分位符格式的字符串。
 > Converts a number to a decimal mark formatted string.
 
 - 使用 `Number.prototype.toLocaleString()` 将数字转换为带有分位符格式。

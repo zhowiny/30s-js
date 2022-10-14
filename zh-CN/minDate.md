@@ -7,7 +7,7 @@ firstSeen: 2018-09-29T13:38:20+03:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 返回给定日期的最小值。
+# 返回给定日期的最小值。
 > Returns the minimum of the given dates.
 
 - 使用带有 `Math.min()` 的 ES6 扩展语法来查找最小日期值。

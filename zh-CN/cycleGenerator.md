@@ -8,7 +8,7 @@ firstSeen: 2020-10-11T17:05:38+03:00
 lastUpdated: 2020-10-11T17:05:38+03:00
 ---
 
-### 创建一个生成器，无限期地循环给定数组。
+# 创建一个生成器，无限期地循环给定数组。
 > Creates a generator, looping over the given array indefinitely.
 
 - 使用非终止的 `while` 循环，每次调用 `Generator.prototype.next()` 时都会产生一个值。

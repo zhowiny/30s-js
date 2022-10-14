@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T12:53:18+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 使用提供的比较器函数返回两个数组中存在的元素。
+# 使用提供的比较器函数返回两个数组中存在的元素。
 > Returns the elements that exist in both arrays, using a provided comparator function.
 
 - 结合提供的比较器使用 `Array.prototype.filter()` 和 `Array.prototype.findIndex()` 来确定相交值。

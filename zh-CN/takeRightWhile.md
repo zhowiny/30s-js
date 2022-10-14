@@ -7,7 +7,7 @@ firstSeen: 2018-01-26T12:55:31+02:00
 lastUpdated: 2020-11-29T12:04:53+02:00
 ---
 
-### 从数组末尾取出元素，直到传递的函数返回 `false`。返回取出的元素。
+# 从数组末尾取出元素，直到传递的函数返回 `false`。返回取出的元素。
 > Removes elements from the end of an array until the passed function returns `false`.
 > Returns the removed elements.
 

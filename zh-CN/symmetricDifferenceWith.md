@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T11:59:02+02:00
 lastUpdated: 2020-10-18T14:58:09+03:00
 ---
 
-### 使用提供的函数作为比较器，返回两个数组之间的对称差。
+# 使用提供的函数作为比较器，返回两个数组之间的对称差。
 > Returns the symmetric difference between two arrays, using a provided function as a comparator.
 
 - 使用 `Array.prototype.filter()` 和 `Array.prototype.findIndex()` 找到合适的值。

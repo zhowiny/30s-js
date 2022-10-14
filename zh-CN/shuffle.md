@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2021-02-20T21:17:38+02:00
 ---
 
-### 随机化一个数组的值的顺序，返回一个新的数组。
+# 随机化一个数组的值的顺序，返回一个新的数组。
 > Randomizes the order of the values of an array, returning a new array.
 
 - 使用 [Fisher-Yates 算法](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#Fisher_and_Yates'_original_method) 对数组元素重新排序。

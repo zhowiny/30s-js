@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 计算数字数组的标准差。
+# 计算数字数组的标准差。
 > Calculates the standard deviation of an array of numbers.
 
 - 使用`Array.prototype.reduce()`计算值的均值、方差和方差之和，并确定标准差。

@@ -8,7 +8,7 @@ firstSeen: 2021-04-22T09:01:22+03:00
 lastUpdated: 2021-04-22T09:01:22+03:00
 ---
 
-### 替换字符串中最后一次出现的模式。
+# 替换字符串中最后一次出现的模式。
 > Replaces the last occurrence of a pattern in a string.
 
 - 使用 `typeof` 来确定 `pattern` 是字符串还是正则表达式。

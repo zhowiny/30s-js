@@ -7,7 +7,7 @@ firstSeen: 2017-12-21T14:50:57+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 将给定的字符串转换为单词数组。
+# 将给定的字符串转换为单词数组。
 > Converts a given string into an array of words.
 
 - 将 `String.prototype.split()` 与提供的 `pattern` 一起使用（默认为非 alpha 作为正则表达式）以转换为字符串数组。

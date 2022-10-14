@@ -7,7 +7,7 @@ firstSeen: 2018-01-28T15:04:21+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 创建一个函数，该函数调用提供的函数，其参数根据指定的索引排列。
+# 创建一个函数，该函数调用提供的函数，其参数根据指定的索引排列。
 > Creates a function that invokes the provided function with its arguments arranged according to the specified indexes.
 
 - 使用 `Array.prototype.map()` 根据 `indexes` 重新排序参数。

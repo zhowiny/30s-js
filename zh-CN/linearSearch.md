@@ -8,7 +8,7 @@ firstSeen: 2020-12-28T12:07:53+02:00
 lastUpdated: 2020-12-28T12:07:53+02:00
 ---
 
-### 使用线性搜索算法查找数组中给定元素的第一个索引。
+# 使用线性搜索算法查找数组中给定元素的第一个索引。
 > Finds the first index of a given element in an array using the linear search algorithm.
 
 - 使用 `for...in` 循环遍历给定数组的索引。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-08T22:07:02+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 向传递的 URL 发出 `POST` 请求。
+# 向传递的 URL 发出 `POST` 请求。
 > Makes a `POST` request to the passed URL.
 
 - 使用 `XMLHttpRequest` Web API 向给定的 `url` 发出 `POST` 请求。

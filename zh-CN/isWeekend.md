@@ -7,7 +7,7 @@ firstSeen: 2019-07-19T17:07:02+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查给定日期是否是周末。
+# 检查给定日期是否是周末。
 > Checks if the given date is a weekend.
 
 - 使用 `Date.prototype.getDay()` 通过模运算符 (`%`) 检查周末。

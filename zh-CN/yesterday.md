@@ -7,7 +7,7 @@ firstSeen: 2019-07-19T10:57:21+03:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 生成昨天日期的字符串表示形式。
+# 生成昨天日期的字符串表示形式。
 > Results in a string representation of yesterday's date.
 
 - 使用 `Date` 构造函数获取当前日期。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-18T16:45:56+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 反向迭代对象的所有自身属性，为每个属性运行回调。
+# 反向迭代对象的所有自身属性，为每个属性运行回调。
 > Iterates over all own properties of an object in reverse, running a callback for each one.
 
 - 使用 `Object.keys()` 获取对象的所有属性，`Array.prototype.reverse()` 反转它们的顺序。

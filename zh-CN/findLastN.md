@@ -7,7 +7,7 @@ firstSeen: 2021-05-09T13:31:36+03:00
 lastUpdated: 2021-05-09T13:31:36+03:00
 ---
 
-### 查找提供的函数为其返回 `true` 值的最后 n 个元素。
+# 查找提供的函数为其返回 `true` 值的最后 n 个元素。
 > Finds the last `n` elements for which the provided function returns a truthy value.
 
 - 使用 `for` 循环为 `arr` 的每个元素执行提供的 `matcher`。

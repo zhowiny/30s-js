@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 返回值的原始类型。
+# 返回值的原始类型。
 > Returns the native type of a value.
 
 - 如果值为 `undefined` 或 `null`，则返回 `'undefined'` 或 `'null'`。

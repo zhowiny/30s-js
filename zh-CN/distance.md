@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T16:41:31+02:00
 lastUpdated: 2020-12-28T13:49:24+02:00
 ---
 
-### 计算两点之间的距离。
+# 计算两点之间的距离。
 > Calculates the distance between two points.
 
 - 使用 `Math.hypot()` 计算两点之间的欧几里得距离。

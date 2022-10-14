@@ -7,7 +7,7 @@ cover: blog_images/guitar-living-room.jpg
 firstSeen: 2021-06-20T05:00:00-04:00
 ---
 
-### 从数组创建对象，使用函数将每个值映射到键。
+# 从数组创建对象，使用函数将每个值映射到键。
 > Creates an object from an array, using a function to map each value to a key.
 
 - 使用 `Array.prototype.reduce()` 从 `arr` 创建一个对象。

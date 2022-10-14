@@ -8,7 +8,7 @@ firstSeen: 2020-04-16T11:00:06+03:00
 lastUpdated: 2021-01-04T13:04:15+02:00
 ---
 
-### 将摄氏度转换为华氏度。
+# 将摄氏度转换为华氏度。
 > Converts Celsius to Fahrenheit.
 
 - 遵循转换公式 `F = 1.8 * C + 32` 。

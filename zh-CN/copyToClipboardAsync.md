@@ -6,7 +6,7 @@ cover: blog_images/typing.jpg
 firstSeen: 2022-01-11T05:00:00-04:00
 ---
 
-### 将字符串复制到剪贴板，返回一个在剪贴板内容更新时 `resolve` 的 `Promise`。
+# 将字符串复制到剪贴板，返回一个在剪贴板内容更新时 `resolve` 的 `Promise`。
 > Copies a string to the clipboard, returning a promise that resolves when the clipboard's contents have been updated.
 
 - 检查 [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API) 是否可用。 使用 `if` 语句确保 `Navigator`、`Navigator.clipboard` 和 `Navigator.clipboard.writeText` 是真实的。

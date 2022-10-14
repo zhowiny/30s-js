@@ -7,7 +7,7 @@ firstSeen: 2018-01-08T17:12:46+02:00
 lastUpdated: 2020-10-22T20:24:44+03:00
 ---
 
-### 将值转换为安全整数。
+# 将值转换为安全整数。
 > Converts a value to a safe integer.
 
 - 使用 `Math.max()` 和 `Math.min()` 找到最接近的安全值。

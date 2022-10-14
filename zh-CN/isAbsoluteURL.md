@@ -7,7 +7,7 @@ firstSeen: 2017-12-31T14:42:45+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查给定的字符串是否是绝对 URL。
+# 检查给定的字符串是否是绝对 URL。
 > Checks if the given string is an absolute URL.
 
 - 使用 `RegExp.prototype.test()` 测试字符串是否为绝对 URL。

@@ -8,7 +8,7 @@ firstSeen: 2020-12-28T13:11:01+02:00
 lastUpdated: 2020-12-28T13:11:01+02:00
 ---
 
-### 使用试除法算法找到给定数的质因数。
+# 使用试除法算法找到给定数的质因数。
 > Finds the prime factors of a given number using the trial division algorithm.
 
 - 使用 `while` 循环遍历所有可能的素因数，从 `2` 开始。

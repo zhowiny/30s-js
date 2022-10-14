@@ -7,7 +7,7 @@ firstSeen: 2018-01-06T12:07:56+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 在数组中查找 `val` 的所有索引。如果 `val` 从未出现，则返回一个空数组。
+# 在数组中查找 `val` 的所有索引。如果 `val` 从未出现，则返回一个空数组。
 > Finds all indexes of `val` in an array.
 > If `val` never occurs, returns an empty array.
 

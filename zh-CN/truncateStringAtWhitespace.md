@@ -7,7 +7,7 @@ firstSeen: 2020-10-19T11:11:16+03:00
 lastUpdated: 2020-10-21T21:17:45+03:00
 ---
 
-### 将字符串截断到指定长度，尽可能考虑空格。
+# 将字符串截断到指定长度，尽可能考虑空格。
 > Truncates a string up to specified length, respecting whitespace when possible.
 
 - 确定 `String.prototype.length` 是否大于或等于 `lim`。 如果没有，请按原样返回。

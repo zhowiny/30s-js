@@ -7,7 +7,7 @@ firstSeen: 2020-10-12T03:03:18+03:00
 lastUpdated: 2020-11-28T19:18:29+02:00
 ---
 
-### 从给定日期计算“n”天的日期，返回其字符串表示形式。
+# 从给定日期计算“n”天的日期，返回其字符串表示形式。
 > Calculates the date of `n` days from the given date, returning its string representation.
 
 - 从第一个参数使用 `Date` 构造函数, 创建 `Date` 对象.

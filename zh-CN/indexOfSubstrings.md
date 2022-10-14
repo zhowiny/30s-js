@@ -8,7 +8,7 @@ firstSeen: 2020-12-31T13:58:51+02:00
 lastUpdated: 2020-12-31T13:58:51+02:00
 ---
 
-### 查找给定字符串中子字符串的所有索引。
+# 查找给定字符串中子字符串的所有索引。
 > Finds all the indexes of a substring in a given string.
 
 - 使用 `Array.prototype.indexOf()` 在 `str` 中查找 `searchValue`。

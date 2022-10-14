@@ -7,7 +7,7 @@ firstSeen: 2018-01-13T14:58:52+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 创建一个新的 `MutationObserver` 并为指定元素上的每个变化运行提供的回调。
+# 创建一个新的 `MutationObserver` 并为指定元素上的每个变化运行提供的回调。
 > Creates a new `MutationObserver` and runs the provided callback for each mutation on the specified element.
 
 - 使用 [`MutationObserver`](https://developer.mozilla.org/zh-CN/docs/Web/API/MutationObserver) 观察给定元素的突变。

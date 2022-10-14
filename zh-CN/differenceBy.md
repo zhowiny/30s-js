@@ -7,7 +7,7 @@ firstSeen: 2018-01-24T11:49:03+02:00
 lastUpdated: 2020-10-19T18:52:00+03:00
 ---
 
-### 在将提供的函数应用于两个数组的每个数组元素后，返回两个数组之间的差异。
+# 在将提供的函数应用于两个数组的每个数组元素后，返回两个数组之间的差异。
 > Returns the difference between two arrays, after applying the provided function to each array element of both.
 
 - 通过将 `fn` 应用于 `b` 中的每个元素来创建一个 `Set`。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-15T18:34:11+02:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 在两个值之间执行深度比较以确定它们是否相等。
+# 在两个值之间执行深度比较以确定它们是否相等。
 > Performs a deep comparison between two values to determine if they are equivalent.
 
 - 检查两个值是否相同。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-27T17:15:48+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
 
-### 接受一个数字并以指定的货币格式返回它。
+# 接受一个数字并以指定的货币格式返回它。
 > Takes a number and returns it in the specified currency formatting.
 
 - 使用 `Intl.NumberFormat` 启用国家/货币敏感格式。

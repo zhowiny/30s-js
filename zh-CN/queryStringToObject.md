@@ -7,7 +7,7 @@ firstSeen: 2020-10-20T20:25:32+03:00
 lastUpdated: 2020-11-03T22:11:18+02:00
 ---
 
-### 从给定的查询字符串或 URL 生成一个对象。
+# 从给定的查询字符串或 URL 生成一个对象。
 > Generates an object from the given query string or URL.
 
 - 使用 `String.prototype.split()` 从给定的 `url` 获取参数。

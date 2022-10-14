@@ -8,7 +8,7 @@ firstSeen: 2020-12-28T21:53:53+02:00
 lastUpdated: 2020-12-28T21:53:53+02:00
 ---
 
-### 使用插入排序算法对数字数组进行排序。
+# 使用插入排序算法对数字数组进行排序。
 > Sorts an array of numbers, using the insertion sort algorithm.
 
 - 使用 `Array.prototype.reduce()` 迭代给定数组中的所有元素。

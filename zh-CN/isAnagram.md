@@ -7,7 +7,7 @@ firstSeen: 2018-02-19T15:47:47+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---
 
-### 检查一个字符串是否是另一个字符串的变位词（不区分大小写，忽略空格、标点符号和特殊字符）。
+# 检查一个字符串是否是另一个字符串的变位词（不区分大小写，忽略空格、标点符号和特殊字符）。
 > Checks if a string is an anagram of another string (case-insensitive, ignores spaces, punctuation and special characters).
 
 - 使用带有适当正则表达式的 `String.prototype.toLowerCase()` 和 `String.prototype.replace()` 来删除不必要的字符。

@@ -8,7 +8,7 @@ firstSeen: 2020-12-28T22:11:56+02:00
 lastUpdated: 2020-12-29T12:22:44+02:00
 ---
 
-### 使用桶排序算法对数字数组进行排序。
+# 使用桶排序算法对数字数组进行排序。
 > Sorts an array of numbers, using the bucket sort algorithm.
 
 - 使用 `Math.min()`、`Math.max()` 和扩展运算符 (`...`) 来查找给定数组的最小值和最大值。

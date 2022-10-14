@@ -7,7 +7,7 @@ firstSeen: 2018-01-26T13:48:50+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
 
-### 根据给定的迭代器函数改变原始数组以过滤掉指定的值。
+# 根据给定的迭代器函数改变原始数组以过滤掉指定的值。
 > Mutates the original array to filter out the values specified, based on a given iterator function.
 
 - 检查提供的最后一个参数是否是一个函数。

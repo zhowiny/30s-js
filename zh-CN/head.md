@@ -7,7 +7,7 @@ firstSeen: 2017-12-17T16:41:31+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---
 
-### 返回数组的头部。
+# 返回数组的头部。
 > Returns the head of an array.
 
 - 检查 `arr` 是否真实且具有 `length` 属性。

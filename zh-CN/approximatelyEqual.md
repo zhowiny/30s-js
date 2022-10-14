@@ -7,7 +7,7 @@ firstSeen: 2018-02-14T12:47:13+02:00
 lastUpdated: 2020-11-01T20:50:57+02:00
 ---
 
-### 检查两个数字是否大致相等。
+# 检查两个数字是否大致相等。
 > Checks if two numbers are approximately equal to each other.
 
 - 使用 `Math.abs()` 将两个值的绝对差值与 `epsilon` 进行比较。

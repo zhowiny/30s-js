@@ -7,7 +7,7 @@ cover: blog_images/red-succulent.jpg
 firstSeen: 2022-05-10T05:00:00-04:00
 ---
 
-### 如果数字有小数，则使用定点表示法格式化数字。
+# 如果数字有小数，则使用定点表示法格式化数字。
 > Formats a number using fixed-point notation, if it has decimals.
 
 - 使用 `Number.prototype.toFixed()` 将数字转换为定点符号字符串。

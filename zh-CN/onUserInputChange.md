@@ -7,7 +7,7 @@ firstSeen: 2017-12-29T17:41:53+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 每当用户输入类型更改（`mouse` 或 `touch`）时运行回调。
+# 每当用户输入类型更改（`mouse` 或 `touch`）时运行回调。
 > Runs the callback whenever the user input type changes (`mouse` or `touch`).
 
 - 使用两个事件监听器。

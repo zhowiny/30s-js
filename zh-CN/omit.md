@@ -7,7 +7,7 @@ firstSeen: 2018-01-19T13:14:46+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 省略与对象中给定键对应的键值对。
+# 省略与对象中给定键对应的键值对。
 > Omits the key-value pairs corresponding to the given keys from an object.
 
 - 使用 `Object.keys()`、`Array.prototype.filter()` 和 `Array.prototype.includes()` 删除提供的键。

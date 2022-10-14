@@ -8,7 +8,7 @@ firstSeen: 2020-12-27T22:22:44+02:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
-### 使用选择排序算法对数字数组进行排序。
+# 使用选择排序算法对数字数组进行排序。
 > Sorts an array of numbers, using the selection sort algorithm.
 
 - 使用扩展运算符 (`...`) 克隆原始数组 `arr`。

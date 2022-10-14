@@ -8,7 +8,7 @@ firstSeen: 2020-04-16T11:10:13+03:00
 lastUpdated: 2020-09-15T16:28:04+03:00
 ---
 
-### 从一个对象创建一个键值对数组。
+# 从一个对象创建一个键值对数组。
 > Creates an array of key-value pair arrays from an object.
 
 - 使用 `Object.keys()` 和 `Array.prototype.map()` 来迭代对象的键并生成具有键值对的数组。

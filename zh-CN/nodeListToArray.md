@@ -7,7 +7,7 @@ firstSeen: 2018-05-06T18:11:21+03:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---
 
-### 将 `NodeList` 转换为数组。
+# 将 `NodeList` 转换为数组。
 > Converts a `NodeList` to an array.
 
 - 在新数组中使用扩展运算符 (`...`) 将 `NodeList` 转换为数组。

@@ -7,7 +7,7 @@ firstSeen: 2018-01-19T13:51:05+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 为对象中`undefined`的所有属性分配默认值。
+# 为对象中`undefined`的所有属性分配默认值。
 > Assigns default values for all properties in an object that are `undefined`.
 
 - 使用 `Object.assign()` 创建一个新的空对象并复制原始对象以保持键顺序。

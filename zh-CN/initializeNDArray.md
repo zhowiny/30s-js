@@ -7,7 +7,7 @@ firstSeen: 2018-04-14T10:52:39+03:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
 
-### 创建具有给定值的 n 维数组。
+# 创建具有给定值的 n 维数组。
 > Create a n-dimensional array with given value.
 
 - 使用递归。
